@@ -4,10 +4,10 @@ export default defineConfig({
   // 站点级选项
   title: "英语学习",
   description: "英语学习课程总结",
-  base: "/english/",
+  base: "/English/",
   srcDir: ".",
   outDir: "dist",
-  head: [["link", { rel: "icon", href: "/english/icon.svg" }]],
+  head: [["link", { rel: "icon", href: "/English/icon.svg" }]],
   themeConfig: {
     lastUpdated: { text: "2024-06-16" },
     outlineTitle: "页面导航",

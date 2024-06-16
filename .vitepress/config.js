@@ -2,8 +2,8 @@ import { defineConfig } from "vitepress";
 
 export default defineConfig({
   // 站点级选项
-  title: "英语学习",
-  description: "英语学习课程总结",
+  title: "English Study",
+  description: "English Lessons Notes",
   base: "/English/",
   srcDir: ".",
   outDir: "dist",
@@ -69,7 +69,7 @@ export default defineConfig({
     },
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2024-present WW",
+      copyright: "Copyright © 2024-present WW And PP",
     },
   },
 });

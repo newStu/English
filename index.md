@@ -1,8 +1,8 @@
 ---
 layout: home
 hero:
-  name: 英语学习
-  text: 英语学习课程总结
+  name: Learn English
+  text: English Lessons Notes
   tagline: Learn English...
   image:
     src: /logo.jpg
@@ -16,43 +16,44 @@ hero:
       text: View on GitHub
       link: https://github.com/newStu/English
 features:
-  - icon: 🛠️
-    title: Simple and minimal, always
-    details: Lorem ipsum...
   - icon:
-      src: /cool-feature-icon.svg
-    title: Another cool feature
-    details: Lorem ipsum...
+      src: /level_1_active.svg
+    title: Level 1
+    details: Learning is finished...
+    link: level1/
   - icon:
-      dark: /dark-feature-icon.svg
-      light: /light-feature-icon.svg
-    title: Another cool feature
-    details: Lorem ipsum...
+      src: /level_2.svg
+    title: Level 2
+    details: In the process of learning...
+    link: level2/
+  - icon:
+      src: /level_3.svg
+    title: Level 3
+    details: Learning has not yet commenced...
+    link: level3/
+  - icon:
+      src: /level_4.svg
+    title: Level 4
+    details: Learning has not yet commenced...
+    link: level4/
+  - icon:
+      src: /level_5.svg
+    title: Level 5
+    details: Learning has not yet commenced...
+    link: level5/
+  - icon:
+      src: /level_6.svg
+    title: Level 6
+    details: Learning has not yet commenced...
+    link: level6/
+  - icon:
+      src: /level_7.svg
+    title: Level 7
+    details: Learning has not yet commenced...
+    link: level7/
+  - icon:
+      src: /level_8.svg
+    title: Level 8
+    details: Learning has not yet commenced...
+    link: level8/
 ---
-
-<style>
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #e9c990 30%, #c89256);
-
-  --vp-home-hero-image-background-image: linear-gradient(-45deg, #e9c990 50%, #c89256 50%);
-  --vp-home-hero-image-filter: blur(44px);
-  
-  --vp-c-indigo-3: #e9c990;
-  --vp-button-brand-hover-bg: #c89256;
-
-  --vp-c-indigo-1: #e9c990;
-}
-
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
-}
-
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(68px);
-  }
-}
-</style>

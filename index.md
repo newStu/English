@@ -22,7 +22,7 @@ features:
     details: Learning is finished...
     link: level1/
   - icon:
-      src: /level_2.svg
+      src: /level_2_active.svg
     title: Level 2
     details: In the process of learning...
     link: level2/

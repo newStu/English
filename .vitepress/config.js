@@ -27,11 +27,11 @@ export default defineConfig({
       // { text: "Level 5", link: "/level5/" },
       {
         text: "Composition",
-        link: "/composition/",
+        link: "/composition",
       },
       {
         text: "Study Way",
-        link: "/study_way/",
+        link: "/study_way",
       },
     ],
     sidebar: {

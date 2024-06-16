@@ -29,6 +29,10 @@ export default defineConfig({
         text: "Composition",
         link: "/composition/",
       },
+      {
+        text: "Study Way",
+        link: "/study_way/",
+      },
     ],
     sidebar: {
       "/level1/": [

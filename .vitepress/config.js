@@ -6,7 +6,7 @@ export default defineConfig({
   description: "英语学习课程总结",
   base: "/english/",
   srcDir: ".",
-  outDir: "./dist",
+  outDir: "/dist",
   head: [["link", { rel: "icon", href: "/english/icon.svg" }]],
   themeConfig: {
     lastUpdated: { text: "2024-06-16" },

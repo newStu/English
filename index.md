@@ -5,7 +5,7 @@ hero:
   text: 英语学习课程总结
   tagline: Learn English...
   image:
-    src: /public/logo.jpg
+    src: /English/public/logo.jpg
     alt: English Study
     max-width: 1000
   actions:

@@ -1,5 +1,5 @@
 {
-  "name": "英语作文",
+  "name": "english",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,5 +14,6 @@
   "license": "ISC",
   "devDependencies": {
     "vitepress": "^1.2.3"
-  }
+  },
+  "packageManager": "pnpm@8.12.1"
 }

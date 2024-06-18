@@ -66,6 +66,7 @@ export default defineConfig({
         { text: "用食物来形容一个人", link: "/funny/9" },
         { text: "写作中常用的万能短语", link: "/funny/10" },
         { text: "常见疑难易错点分析积累", link: "/funny/11" },
+        { text: "如何用英语称赞别人的能力", link: "/funny/12" },
       ],
       "/composition/": [
         {

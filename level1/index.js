@@ -1,7 +1,3 @@
 export default [
-  {
-    text: "Level 1",
-    link: "/level1/",
-    items: [],
-  },
-];
+	{ text: "总结", link: "/level1/index.md" },
+]

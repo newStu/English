@@ -5,9 +5,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "preview": "vitepress preview",
+    "dev": "npm run create && vitepress dev",
+    "build": "npm run create && vitepress build",
+    "preview": "npm run create && vitepress preview",
     "create": "node ./tools/index.js"
   },
   "keywords": [],

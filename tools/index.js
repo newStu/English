@@ -22,7 +22,7 @@ function createFiles(element, filterName, pathInfo) {
   });
 }
 
-export function loadFile(filePath) {
+function loadFile(filePath) {
   if (!fs.existsSync(filePath)) {
     return null;
   }
@@ -30,7 +30,7 @@ export function loadFile(filePath) {
   return fs.readFileSync(filePath, "utf-8");
 }
 
-export function setMdFile(realPath) {
+function setMdFile(realPath) {
   // new URL("../funny", import.meta.url).pathname.substring(1)
   const baseDir = path.resolve(__dirname, `../${realPath}`);
   // 获取所有文件路径

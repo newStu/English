@@ -40,3 +40,5 @@ In summer,he is very afraid of hot too,so we open the air-conditioned in the roo
 ::: tip 修改后的文章
 
 I have a pet cat named CupCup. He is a male cat and 4 years old. Two years ago, we adopted him because he was abandoned by his original owner. Since then, CupCup brings us a lot of joy in my family; our lives are no longer boring. He is very friendly. We love him very much and treat him as a family member. He is very timid outdoors, so in our free time, we only play with him at home. We feed him with delicious cat food, and canned cat food is his favorite. In winter, he is very afraid of the cold; he likes being hugged by my husband. In summer, he's also very afraid of the heat, so we turn on the air conditioning in the room, and he enjoys the cool air.
+
+:::

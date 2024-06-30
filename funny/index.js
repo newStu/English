@@ -14,4 +14,5 @@ export default [
 	{ text: "香水指南：如何选购一款合适的香水呢？", link: "/funny/13.md" },
 	{ text: "抢票和唠嗑", link: "/funny/14.md" },
 	{ text: "安慰", link: "/funny/15.md" },
+	{ text: "美剧里最常说的俚语", link: "/funny/16.md" },
 ]

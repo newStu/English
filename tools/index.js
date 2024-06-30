@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 /**
  * 创建文件
  * @param {*} element 文件内容
- * @param {*} pathFileName 带路径的文件名称 
+ * @param {*} pathFileName 带路径的文件名称
  */
 function createFiles(element, pathFileName) {
   fs.writeFile(pathFileName, element, function (err) {
@@ -23,7 +23,7 @@ function createFiles(element, pathFileName) {
 /**
  * 读取文件内容
  * @param {*} filePath 文件地址
- * @returns 
+ * @returns
  */
 function loadFile(filePath) {
   if (!fs.existsSync(filePath)) {
@@ -37,7 +37,7 @@ function loadFile(filePath) {
  * 获取文件列表
  * @param {*} realPath 真实地址
  * @param {*} patterns 文件匹配
- * @returns 
+ * @returns
  */
 function getFileList(realPath, patterns) {
   // new URL("../funny", import.meta.url).pathname.substring(1)
@@ -74,9 +74,9 @@ function setMdFile(realPath) {
       fileText += `\t{ text: "${title}", link: "${routePath}" },\n`;
     });
   fileText = `export default [\n${fileText}]`;
-  createFiles(fileText, `${baseDir}\\index.js` );
+  createFiles(fileText, `${baseDir}\\index.js`);
 }
 
-["funny", "level1", "level2"].forEach((item) => {
+["funny", "level1", "level2", "pronunciation"].forEach((item) => {
   setMdFile(item);
 });

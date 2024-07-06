@@ -56,27 +56,69 @@ function getFirstHeader(markdownContent) {
   return match ? match[1] : null;
 }
 
+function transformInfoToResult(list, realPath, baseDir) {
+  // 创建一个对象来保存每个目录及其对应的项
+  const directoryMap = {};
+  const listInfo = list.filter((item) => item !== "index.md");
+
+  // 遍历info数组
+  for (const filePath of listInfo) {
+    // 分割路径获取目录和文件名
+    const pathParts = filePath.split("/");
+    const fileName = pathParts.pop(); // 获取文件名
+    const dirName = pathParts.join("/"); // 获取目录名
+    const fullPath = path.join(baseDir, filePath);
+
+    // 读取文件
+    const detail = loadFile(fullPath);
+    const title = getFirstHeader(detail);
+    const routePath = `/${realPath}/${filePath}`;
+
+    // 初始化当前目录在directoryMap中的记录
+    if (!directoryMap[dirName]) {
+      directoryMap[dirName] = {
+        text: "", // 处理根目录和下划线
+        items: [],
+      };
+    }
+    // 如果是索引文件，则设置link属性
+    if (fileName === "index.md") {
+      directoryMap[dirName].text = title;
+    } else {
+      // 否则，将其添加到items数组中
+      directoryMap[dirName].items.push({
+        text: title, // 移除文件扩展名
+        link: routePath,
+      });
+    }
+  } 
+  // 构建最终结果数组，仅包含非空的目录和其下的items
+  let result = [];
+  for (const key in directoryMap) { 
+    result.push(directoryMap[key]);
+  } 
+  return result;
+}
+
 function setMdFile(realPath) {
   let fileText = "";
   const { filePaths, baseDir } = getFileList(`../${realPath}`, "**/*.md");
   filePaths.sort((a, b) => parseInt(a) - parseInt(b));
-  filePaths
-    .filter((item) => item !== "index.md")
-    .forEach((filePath) => {
-      const fullPath = path.join(baseDir, filePath);
-      if (!fs.statSync(fullPath).isFile()) return;
-      // 读取文件
-      const detail = loadFile(fullPath);
+  // .forEach((filePath) => {
+  //   const fullPath = path.join(baseDir, filePath);
+  //   if (!fs.statSync(fullPath).isFile()) return;
+  //   // 读取文件
+  //   const detail = loadFile(fullPath);
+  //   const title = getFirstHeader(detail);
+  //   const routePath = `/${realPath}/${filePath}`;
 
-      const title = getFirstHeader(detail);
-      const routePath = `/${realPath}/${filePath}`;
-
-      fileText += `\t{ text: "${title}", link: "${routePath}" },\n`;
-    });
-  fileText = `export default [\n${fileText}]`;
+  //   fileText += `\t{ text: "${title}", link: "${routePath}" },\n`;
+  // });
+  const fileInfo = transformInfoToResult(filePaths, realPath, baseDir); 
+  fileText = `export default ${JSON.stringify(fileInfo, null, 2)}`;
   createFiles(fileText, `${baseDir}\\index.js`);
 }
 
-["funny", "level1", "level2", "pronunciation"].forEach((item) => {
+["funny", "level1", "level2", "pronunciation", "composition", "education"].forEach((item) => {
   setMdFile(item);
 });

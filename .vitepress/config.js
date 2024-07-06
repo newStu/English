@@ -4,6 +4,7 @@ import composition from "../composition/index";
 import level1 from "../level1/index";
 import level2 from "../level2/index";
 import pronunciation from "../pronunciation/index";
+import education from "../education/index";
 
 export default defineConfig({
   // 站点级选项
@@ -43,8 +44,8 @@ export default defineConfig({
         link: "/pronunciation/",
       },
       {
-        text: "Study Way",
-        link: "/study_way",
+        text: "Education",
+        link: "/education",
       },
     ],
     sidebar: {
@@ -53,6 +54,7 @@ export default defineConfig({
       "/funny/": funny,
       "/composition/": composition,
       "/pronunciation/": pronunciation,
+      "/education/": education,
     },
     footer: {
       message: "Released under the MIT License.",

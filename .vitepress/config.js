@@ -4,6 +4,8 @@ import composition from "../composition/index";
 import level1 from "../level1/index";
 import level2 from "../level2/index";
 import pronunciation from "../pronunciation/index";
+import grammar from "../grammar/index";
+import readwrite from "../readwrite/index";
 
 export default defineConfig({
   // 站点级选项
@@ -43,6 +45,14 @@ export default defineConfig({
         link: "/pronunciation/",
       },
       {
+        text: "Grammar",
+        link: "/grammar/",
+      },
+      {
+        text: "Read Write",
+        link: "/readwrite/",
+      },
+      {
         text: "Study Way",
         link: "/study_way",
       },
@@ -53,6 +63,8 @@ export default defineConfig({
       "/funny/": funny,
       "/composition/": composition,
       "/pronunciation/": pronunciation,
+      "/grammar/": grammar,
+      "/readwrite/": readwrite,
     },
     footer: {
       message: "Released under the MIT License.",

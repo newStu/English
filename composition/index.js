@@ -1,21 +1,20 @@
 export default [
-	{
-	  text: "汪汪",
-	  items: [
-		{
-		  text: "我的小猫咪",
-		  link: "/composition/ww/My Cat",
-		},
-	  ],
-	},
-	{
-	  text: "胖胖",
-	  items: [
-		{
-		  text: "我的小猫咪",
-		  link: "/composition/pp/My Cat",
-		},
-	  ],
-	},
-  ];
-  
+  {
+    "text": "胖胖",
+    "items": [
+      {
+        "text": "My pet cat",
+        "link": "/composition/pp/My Cat.md"
+      }
+    ]
+  },
+  {
+    "text": "汪汪",
+    "items": [
+      {
+        "text": "I am a cat",
+        "link": "/composition/ww/My Cat.md"
+      }
+    ]
+  }
+]

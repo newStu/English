@@ -15,24 +15,32 @@ export default defineConfig({
   base: "/English/",
   srcDir: ".",
   outDir: "dist",
-  head: [["link", { rel: "icon", href: "/English/icon.svg" }]],
+  head: [["link", { rel: "icon", href: "/English/public/icon.svg" }]],
   themeConfig: {
     lastUpdated: { text: "2024-06-16" },
     outlineTitle: "页面导航",
-    logo: "/icon.svg",
+    // logo: "/icon.svg",
     socialLinks: [
       { icon: "github", link: "https://github.com/newStu/English" },
+      {
+        icon: "github",
+        link: "https://dictionary.cambridge.org/",
+      },
     ],
     search: {
       provider: "local",
     },
     nav: [
-      { text: "Lesson", link: "/lesson" },
-      { text: "Level 1", link: "/level1/" },
-      { text: "Level 2", link: "/level2/" },
-      // { text: "Level 3", link: "/level3/" },
-      // { text: "Level 4", link: "/level4/" },
-      // { text: "Level 5", link: "/level5/" },
+      {
+        text: "Lesson",
+        items: [
+          { text: "Level 1", link: "/level1/" },
+          { text: "Level 2", link: "/level2/" },
+          { text: "Level 3", link: "/level3/" },
+          { text: "Level 4", link: "/level4/" },
+          { text: "Level 5", link: "/level5/" },
+        ],
+      },
       {
         text: "Grammar",
         link: "/grammar/",

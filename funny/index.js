@@ -65,6 +65,22 @@ export default [
       {
         "text": "美剧里最常说的俚语",
         "link": "/funny/16.md"
+      },
+      {
+        "text": "美剧里最常说的俚语",
+        "link": "/funny/17.md"
+      },
+      {
+        "text": "趣味短语：You're a pill",
+        "link": "/funny/18.md"
+      },
+      {
+        "text": "成语",
+        "link": "/funny/19.md"
+      },
+      {
+        "text": "white night",
+        "link": "/funny/20.md"
       }
     ]
   }

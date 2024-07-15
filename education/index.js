@@ -5,6 +5,10 @@ export default [
       {
         "text": "幼儿教育",
         "link": "/education/habit/1.md"
+      },
+      {
+        "text": "完善自己，保护孩子的一生",
+        "link": "/education/habit/2.md"
       }
     ]
   },

@@ -69,6 +69,7 @@ export default defineConfig({
       "/composition/": composition,
       "/education/": education,
     },
+    sidebarDepth: 3,
     footer: {
       message: "Released under the MIT License.",
       copyright: "Copyright © 2024-present WW And PP",

@@ -9,6 +9,7 @@ export default [
   { text: "形容词", link: "./形容词.md" },
   { text: "副词", link: "./副词.md" },
   { text: "动词", link: "./动词.md" },
+  { text: "知识点整理", link: "./知识点整理.md" },
   { text: "句子成分", link: "./句子成分.md" },
   { text: "重点短语集合", link: "./100.md" },
   { text: "十六大时态", link: "./十六大时态.md" },

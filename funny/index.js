@@ -81,6 +81,10 @@ export default [
       {
         "text": "white night",
         "link": "/funny/20.md"
+      },
+      {
+        "text": "从动物言语里看中英文化差异",
+        "link": "/funny/21.md"
       }
     ]
   }

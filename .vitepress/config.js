@@ -1,6 +1,6 @@
 import { defineConfig } from "vitepress";
 import funny from "../funny/index";
-import composition from "../composition/index";
+// import composition from "../composition/index";
 import level1 from "../level1/index";
 import level2 from "../level2/index";
 import pronunciation from "../pronunciation/index";
@@ -50,10 +50,10 @@ export default defineConfig({
         text: "Funny English",
         link: "/funny/",
       },
-      {
-        text: "Composition",
-        link: "/composition",
-      },
+      // {
+      //   text: "Composition",
+      //   link: "/composition",
+      // },
       {
         text: "Education",
         link: "/education",
@@ -66,7 +66,7 @@ export default defineConfig({
       "/readwrite/": readwrite,
       "/pronunciation/": pronunciation,
       "/funny/": funny,
-      "/composition/": composition,
+      // "/composition/": composition,
       "/education/": education,
     },
     sidebarDepth: 3,

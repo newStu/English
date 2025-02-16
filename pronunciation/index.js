@@ -4,7 +4,11 @@ export default [
     "items": [
       {
         "text": "音变",
-        "link": "/pronunciation/0_transformation.md"
+        "link": "/pronunciation/音变.md"
+      },
+      {
+        "text": "音变",
+        "link": "/pronunciation/音变2.md"
       }
     ]
   },

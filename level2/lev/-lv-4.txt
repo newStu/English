@@ -130,18 +130,19 @@ some + 名词
 | Don't eat so much fast food. Eat healthy food instead. | 不要吃这么多快餐。吃健康的食物来代替。 |
 
 ## 语法课: "both"和"all"的用法
+
 ```txt
-I love going to the movies with my family. 
+I love going to the movies with my family.
 We don't like all movies, but we like most of them.
 There are two theaters in town. We go to both of them.
 All of us order snacks.
-I get chocolate and my brother gets candy. 
+I get chocolate and my brother gets candy.
 Both sweets are delicious.
 Both of my parents order popcorn and soda.
 All soda and all candy with lots of sugar is bad for you.
 Maybe we need to be healthier and find a new family activity.
 
- 
+
 
 我喜欢和我的家人去看电影。
 我们不喜欢所有的电影，但我们喜欢大多数的电影。
@@ -153,20 +154,19 @@ Maybe we need to be healthier and find a new family activity.
 或许我们需要变得更健康，并找到一种新的家庭活动。
 ```
 
-
 ::: tip 语法
 all of + 形容词性物主代词+主语
-+ All of her fans love her new songs.
-:::
 
+- All of her fans love her new songs.
+  :::
 
-## 听力课: 电影与零食 
+## 听力课: 电影与零食
 
 ```txt
-Do you like to eat popcorn during the movies? 
+Do you like to eat popcorn during the movies?
 Most people get popcorn or other snacks and soda at the movies.
 A lot of people think popcorn and snacks are part of the movie experience.
-But, did you know that, in the past, 
+But, did you know that, in the past,
 movie theaters didn't sell any popcorn or other snacks?
 Food was often sold by other moviegoers or by people outside of the theater.
 This only changed because movie theaters started to lose money.
@@ -189,10 +189,11 @@ Today, snacks are over 40 percent of the profits, or money, that theaters make.
 你可以在电影院、公园和体育场中找到这些小卖部。
 并且，这奏效了!
 现今，零食占比超过了电影院的利润，或者说赚到的钱的40%。
- 
+
 ```
 
 ## 口语课: 电影院的零食
+
 ```txt
 Would you like some snacks, Meg?
 
@@ -222,15 +223,18 @@ Okay!
 
 ::: tip 语法
 any + 名词
-+ Any drinks?
+
+- Any drinks?
 
 some + 名词
-+ Would you like some snacks, Meg?
-:::
+
+- Would you like some snacks, Meg?
+  :::
 
 ## 口语课: 购买零食
+
 ```txt
-Hi, what can I do for you? 
+Hi, what can I do for you?
 
 I want to buy some chips.
 
@@ -257,14 +261,17 @@ Yes! Two ice creams.
 是的，你想要一些吗?
 是的!两个冰淇淋。
 ```
- 
+
 ::: tip 语法
 a lot of + 名词
-+ Two Cokes with a lot of ice, please.
+
+- Two Cokes with a lot of ice, please.
 
 some + 名词
-+ I want to buy some chips.
+
+- I want to buy some chips.
 
 any + 名词
-+ Do you want any drinks?
-:::
+
+- Do you want any drinks?
+  :::

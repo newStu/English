@@ -9,12 +9,12 @@
 
 ## 时间表达
 
-小于 30 分钟用 past , 大于三十分钟用 to
+小于 30 分钟用 after/past , 大于三十分钟用 to
 
 - 8:20 twenty past eight
 - 11:50 ten to twelve
 - 7:15 a quarter past seven
-- 10:45 a quarter to eleven
+- 10:45 a quarter to eleven / three quarter past ten
 - 7:30 half past seven
 
 楼层表达 : on the sixth floor

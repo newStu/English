@@ -91,12 +91,12 @@ function transformInfoToResult(list, realPath, baseDir) {
         link: routePath,
       });
     }
-  } 
+  }
   // 构建最终结果数组，仅包含非空的目录和其下的items
   let result = [];
-  for (const key in directoryMap) { 
+  for (const key in directoryMap) {
     result.push(directoryMap[key]);
-  } 
+  }
   return result;
 }
 
@@ -114,11 +114,19 @@ function setMdFile(realPath) {
 
   //   fileText += `\t{ text: "${title}", link: "${routePath}" },\n`;
   // });
-  const fileInfo = transformInfoToResult(filePaths, realPath, baseDir); 
+  const fileInfo = transformInfoToResult(filePaths, realPath, baseDir);
   fileText = `export default ${JSON.stringify(fileInfo, null, 2)}`;
   createFiles(fileText, `${baseDir}\\index.js`);
 }
 
-["funny", "level1", "level2", "pronunciation", "composition", "education"].forEach((item) => {
+[
+  "funny",
+  "level1",
+  "level2",
+  "level3",
+  "pronunciation",
+  "composition",
+  "education",
+].forEach((item) => {
   setMdFile(item);
 });

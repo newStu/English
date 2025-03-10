@@ -472,7 +472,7 @@ People's Park will **be on your left**. 人民公园就在你的左侧
 | cube / Water Cube / Rubik's Cube  | 立方体 / 水立方 / 魔方         |
 | dimension - dimensional           | 维度;尺寸 / 空间的             |
 | three-dimensional film            | 3D 电影                        |
-| sphere                            | 球体 ; 球状物                  |
+| sphere /sfɪr/                     | 球体 ; 球状物                  |
 | rectangle                         | 矩形                           |
 | area                              | 面积                           |
 | times                             | prep.乘法                      |

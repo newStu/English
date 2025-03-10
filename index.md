@@ -24,12 +24,12 @@ features:
   - icon:
       src: /level_2_active.svg
     title: Level 2
-    details: In the process of learning...
+    details: Learning is finished...
     link: level2/
   - icon:
-      src: /level_3.svg
+      src: /level_3_active.svg
     title: Level 3
-    details: Learning has not yet commenced...
+    details: In the process of learning...
     link: level3/
   - icon:
       src: /level_4.svg

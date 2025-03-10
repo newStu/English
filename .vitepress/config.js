@@ -3,6 +3,7 @@ import funny from "../funny/index";
 // import composition from "../composition/index";
 import level1 from "../level1/index";
 import level2 from "../level2/index";
+import level3 from "../level3/index";
 import pronunciation from "../pronunciation/index";
 import grammar from "../grammar/index";
 import readwrite from "../readwrite/index";
@@ -62,6 +63,7 @@ export default defineConfig({
     sidebar: {
       "/level1/": level1,
       "/level2/": level2,
+      "/level3/": level3,
       "/grammar/": grammar,
       "/readwrite/": readwrite,
       "/pronunciation/": pronunciation,

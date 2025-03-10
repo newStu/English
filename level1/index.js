@@ -3,6 +3,10 @@ export default [
     "text": "",
     "items": [
       {
+        "text": "three1",
+        "link": "/level1/three1.md"
+      },
+      {
         "text": "unit 1",
         "link": "/level1/unit1.md"
       },

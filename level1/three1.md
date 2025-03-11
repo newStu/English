@@ -291,3 +291,235 @@ By the time I got there it was too late to get on the flight. <br/>
   It's going to rain tomorrow. (推测) 明天要下雨 <br/>
 
 Check with your doctor before you take medicine. <br/>
+
+## 第 5 课
+
+| 单词/词组                  | 汉语                                |
+| -------------------------- | ----------------------------------- |
+| successful                 | 成功的                              |
+| do well                    | 进展很好,表现很好                   |
+| in fact                    | 事实上                              |
+| profit / profitable        | n.利润 / adj. 有利润的              |
+| income / expense(s)        | 收入(不可数) / 支出(可数的)         |
+| as a result = so           | 因此,结果                           |
+| as a result of             | 因为...                             |
+| be worried about sb/sth    | 为某人某事担心                      |
+| afford                     | 负担得起, 买得起                    |
+| waste                      | 浪费                                |
+| on the other hand          | 另一方面                            |
+| rely on                    | v. 依赖、信任                       |
+| reliable                   | adj. 可信赖的 , 可靠的              |
+| especially                 | 特别, 尤其 (程度副词)               |
+| break down                 | 机器故障                            |
+| environment                | 环境                                |
+| reduce / increase          | 减少 / 增加                         |
+| pollution                  | n. 污染                             |
+| air/water/smog pollution   | 空气/水/雾霾 污染                   |
+| pollute                    | v. 污染                             |
+| pollute the air            | 污染空气                            |
+| pollute the environment    | 污染环境                            |
+| clean car                  | 环保的车子                          |
+| think about **doing** sth  | 思考做某事                          |
+| electricity                | n. 电,电能                          |
+| electric                   | n. 供电的、电动的(一般加电动仪器)   |
+| electric car               | 电动车                              |
+| electric toothbrush        | 电动牙刷                            |
+| electrical                 | adj. 与电有关的(表示某一大类的名词) |
+| electrical goods           | 电子产品                            |
+| electrical energy          | 电能                                |
+| electrical outlet          | 电源插座                            |
+| battery (batteries)        | 电池 (复数)                         |
+| instead of sth             | 作为...的替代                       |
+| gas / gasoline             | n. 气体 / n. 汽油                   |
+| exhaust /ɪɡˈzɔːst/         | n. 废气;排气管 / v. 耗尽力气        |
+| charge                     | v.充电 / n. 收费                    |
+| charging station           | 充电站                              |
+| recharge the battery       | 重新充电                            |
+| plug sth in                | 给...接通电源                       |
+| plug                       | n. 插头 / v. 堵、塞                 |
+| sth takes time             | 某事需要很长时间                    |
+| be happy with sth          | 对...很满意                         |
+| engineer                   | v 设计 / n.工程师                   |
+| well-engineer              | adj. 设计得很好                     |
+| the cost for/of doing sth. | 做某事得费用                        |
+| low / high                 | 费用低 / 费用高                     |
+| the idea of doing sth.     | 关于做某事得主意、想法              |
+| careless                   | 粗心的 (+ less 表示没有)            |
+| driverless car             | 没有司机的车;无人驾驶               |
+| be in control of sth       | 掌控着某事某物                      |
+
+I am doing well in my new job. <br/>
+
+**动词不定式做主语 ：to + 动词原形** <br/>
+**To be profitable** means that their income is more than their expenses. <br/>
+To build a house means that you will need a lot of money. <br/>
+
+**不定式做定语** ：<br/>
+He's trying to decide which car <u>to buy</u>.(作定语) <br/>
+I really want to buy a new dress, On the other hand I think I should save the money. <br/>
+
+He wants a car (that) <u>he can rely on</u>. 做定于修饰 a car <br/>
+It **has to** be safe and reliable, especially in cold winter weather. <br/>
+If a car **breaks down** in bad weather, it **can** be very dangerous. (can 可能) <br/>
+He would like to buy a clean car, something good for the environment.
+
+Electric car use batteries instead of gasoline, so they do not **emit exhaust fumes** (排放废气) to pollute the air. <br/>
+However, the car can't go very far without recharging the battery. <br/>
+(without 表示“没有”或“不”，后面直接跟人/物/动词的 -ing 形式）) <br/>
+To charge the battery, you can plug it in to an electrical outlet.
+
+Learning a new language takes time. <br/>
+The cost for watching a movie is quite low now. <br/>
+the idea of losing weight / the idea of going on a vacation <br/>
+In the future, there may be driverless cars. <br/>
+The driver **is in control of** the car.
+
+## 第 6 课
+
+| 单词/词组                   | 汉语                            |
+| --------------------------- | ------------------------------- |
+| space / spatial             | n. 空间 / adj. 空间的           |
+| relation                    | 空间                            |
+| spatial relation            | 空间关系                        |
+| Chinese-US relation         | 中美关系                        |
+| water under the bridge      | 桥下流水;无法挽回的过去         |
+| flow                        | (液体、气体、电流)的流动        |
+| waterfall                   | 瀑布                            |
+| passport                    | 护照                            |
+| license                     | 执照;许可证                     |
+| driver license              | 驾照                            |
+| against the law             | 违法                            |
+| influence                   | 影响                            |
+| alcohol                     | 酒精                            |
+| Driving Under the Influence | 酒驾                            |
+| credit card                 | 信用卡                          |
+| useful                      | 有用的                          |
+| in order (not) to do        | 为了(不)                        |
+| by tickets online           | 网上买票                        |
+| get a discount              | 获得折扣                        |
+| deposit                     | 存钱;存储                       |
+| withdraw                    | 取钱;回收;撤退                  |
+| online banking              | 网上银行                        |
+| stay overnight              | 过夜                            |
+| make a reservation          | 预约;预定                       |
+| take/have a break           | 休息一会儿                      |
+| take a break from work      | 工作累了休息一会儿              |
+| repair shop                 | 修理店                          |
+| fix a car = repair a car    | 修车                            |
+| be tired of doing sth.      | 厌倦做某事                      |
+| feel like doing sth.        | 想要做某事                      |
+| upset                       | 沮丧 ; 不舒服                   |
+| deliver                     | 送达 ; 交付                     |
+| deliveryman                 | 送货员                          |
+| find out                    | 找出;弄清楚;发现                |
+| take a walk                 | 散步                            |
+| get lost                    | 迷路                            |
+| three thousand              | 三千                            |
+| thousands of                | 成千上万的                      |
+| take a photo/selfie         | 拍照/自拍                       |
+| share sth. with sb.         | 和某人分享某物                  |
+| fashion / old-fashioned     | 时尚 / 过时的;老派的;思想传统的 |
+| see sb doing sth            | 看见某人正在做某事              |
+
+**under 在...下面** A dog is lying under the tree. <br/>
+**above 在...上方** The plane is flying above the clouds. <br/>
+**over 在...上面** There is a bridge over the river. <br/>
+(above 和 over 大多数情况下可以替换 , 两种有实际接触的只能用 over ) <br/>
+I put a blanket(毛毯) over the sleeping child. <br/>
+**beneath 在...下方** The river is flowing beneath the bridge. <br/>
+The water is flowing over a water.
+
+It is against the law to drive without a driver's license. <br/>
+It is against the law to drive under the influence of alcohol. <br/>
+You don't need to pay cash. You can buy it on credit. <br/>
+
+We need to buy tickets in order to take a train. = In order to take a train we need to buy tickets.
+I got up early in order not to be late. <br/>
+
+Banks are where people can deposit or withdraw money. <br/>
+A friend of mine stayed overnight in our guest room. <br/>
+
+**描述地点:Some place is where people do sth.**
+Shanghai is where l grew up. <br/>
+Repair shops are where people go to fix things which are broken or not working right. <br/>
+This repair shop fixes cars and can check to see if <u>it is safe to drive</u>. 宾语从句 <br/>
+
+- What do you have in mind? 你有什么想法吗? (用于询问细节)
+- What do you feel like doing this weekend? 这周末你想做点什么?
+
+**当形容词修饰不定代词/不定副词时 , 作后置定语.** <br/>
+There is **nothing difficult** in the world. 世上无难事 <br/>
+I don't want **anything spicy**. 辣的 <br/>
+Did you go **anywhere interesting** ?
+
+My stomach doesn't feel good. It's a bit **upset**. <br/>
+How long will it take for the food (to get here = to be delivered) ? <br/>
+Hopefully it won't take longer than an hour. <br/>
+
+There were thousands of people there. <br/>
+I was really **surprised by** how many people were there. 被....惊讶到 <br/>
+
+My girlfriend likes to share her selfies with her friends online. <br/>
+I don't **understand why** people like to take so many pictures of themselves. 宾语从句 <br/>
+That's because you are old-fashioned. <br/>
+
+## 第 7 课
+
+| 单词/词组                              | 汉语                     |
+| -------------------------------------- | ------------------------ |
+| spend time (in) doing sth.             | 花费时间做某事           |
+| take 3 day off                         | 请三天假                 |
+| so that                                | 目的是...                |
+| live in the mountains                  | 住在山区里               |
+| live in the mountain                   | 住在洞穴里               |
+| ... away                               | 距此...远                |
+| looking forward to doing               | 期盼...                  |
+| introduce                              | 介绍                     |
+| introduce sb to sb                     | 把某某介绍给某某         |
+| purpose                                | 意图;目的                |
+| plan to do sth.                        | 计划打算做某事           |
+| get married                            | 结婚                     |
+| quit                                   | 辞职;放弃                |
+| quit school / quit work / quit smoking | 辍学 / 辞职 / 戒烟       |
+| set up                                 | 建立 ; 召开              |
+| decide / decision                      | v. 决定 / n. 决策        |
+| decide (not) to do                     | 决定(不)做某事           |
+| not ... yet                            | 还没有                   |
+| would like sb. to do                   | 想要某人做某事(礼貌语气) |
+| for now                                | 此时,眼下                |
+| accept her way of life                 | 接受她的生活方式         |
+| the same as                            | 和...一样                |
+
+- **现在进行时** ： 也可以用来谈论对未来已经作出的计划和安排
+
+I am moving next month.
+
+- **现在完成时 ： have/has + 动词的过去分词** <br/>
+
+**1、某事在过去发生，但跟现在有联系** <br/>
+I have lost all my money , so I can't buy anything now. 我丢掉了所有的钱，所以现在什么都买不了。
+
+**2、某事从过去某个时间开始，持续到了现在** <br/>
+She has lived here since 1992. 她从 1992 年起就住在这儿了。
+
+I spent a month (in) losing weight. <br/>
+She's **taking time off** **so that** she can visit her parents. <br/>
+Her parents live in the mountainous. It is about **two hours away** by plane from Beijing to Shanghai. <br/>
+Christina is looking forward to seeing her parents. They **haven't seen** her for almost a year. <br/>
+
+Her boyfriend is going with her. <br/>
+She is going to introduce him to her parents. <br/>
+What is the purpose of her trip? <br/>
+She is going on the trip **so that** she can introduce her boy friend to her parents. <br/>
+
+She plans to quit work , because she wants to **set up her own business**. <br/>
+**It takes time**. 做这件事需要一定的时间 <br/>
+In fact, they may **decide not to** have children. They don't know yet. It's going to be **a big decision**. <br/>
+
+Christina's parents looking forward to having a grandchild , they think it's more important to have children.<br/>
+In fact, they **would like her to** live closer to them , they want to be close to their grandchildren.
+
+For now, she wants them to be happy that she is going to get married. <br/>
+She wants her parents to accept her way of life. <br/>
+Life isn't the same now as it used to be. 现在的生活和以前不一样了 <br/>
+Times are changing. 时代在改变 <br/>

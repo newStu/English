@@ -3,10 +3,6 @@ export default [
     "text": "",
     "items": [
       {
-        "text": "101",
-        "link": "/level2/101.md"
-      },
-      {
         "text": "unit 1",
         "link": "/level2/unit1.md"
       },

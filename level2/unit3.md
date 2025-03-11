@@ -304,7 +304,7 @@ Be careful when you cross the street. <br/>
 | from...to...                 | 从...到...               |
 | not...until                  | 到...为止;直到...才      |
 | better than                  | 比...好                  |
-| set up                       | 召开;安排                |
+| set up                       | 召开; 安排               |
 | conference / conference call | 会议 / 电话会议          |
 | a terrible accident          | 一起可怕的事故           |
 | run out into                 | 跑到;跑进                |

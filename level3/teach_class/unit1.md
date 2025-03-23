@@ -129,7 +129,6 @@ I won't (will not) stay up too late. = I am not going to stay up too late. 一�
 | location                      | 地点                                  |
 | be difficult to               | 很难做某事                            |
 | a long flight                 | 长途飞行                              |
-| cause                         | 原因                                  |
 | be called                     | 被称为                                |
 | say                           | 说 ; 指示;说明                        |
 | jet lag                       | 时差                                  |
@@ -227,7 +226,7 @@ Even Kim doesn't know how it will end. The ending of the movie is still a secret
 | rainfall                    | 降雨量                      |
 | last for + 一段时间         | 持续多久; 一段时间          |
 | be supposed to do sth.      | 应该做某事                  |
-| by + 时间点                 | 在...时间之前;到...时候;    |
+| by + 时间点                 | 在...时间之前;不迟于...     |
 | rebook                      | 重新预定 / -re 前缀表示再次 |
 | miss the fight              | 错过航班 ; 误机             |
 | rebuild                     | 重建                        |
@@ -313,11 +312,10 @@ Check with your doctor before you take medicine. <br/>
 | break down                 | 机器故障                            |
 | environment                | 环境                                |
 | reduce / increase          | 减少 / 增加                         |
-| pollution                  | n. 污染                             |
-| air/water/smog pollution   | 空气/水/雾霾 污染                   |
-| pollute                    | v. 污染                             |
+| pollute / pollution        | v. 污染 / n. 污染                   |
 | pollute the air            | 污染空气                            |
 | pollute the environment    | 污染环境                            |
+| air/water/smog pollution   | 空气/水/雾霾 污染                   |
 | clean car                  | 环保的车子                          |
 | think about **doing** sth  | 思考做某事                          |
 | electricity                | n. 电,电能                          |
@@ -331,7 +329,7 @@ Check with your doctor before you take medicine. <br/>
 | battery (batteries)        | 电池 (复数)                         |
 | instead of sth             | 作为...的替代                       |
 | gas / gasoline             | n. 气体 / n. 汽油                   |
-| exhaust /ɪɡˈzɔːst/         | n. 废气;排气管 / v. 耗尽力气        |
+| exhaust /ɪɡˈzɔːst/         | n. 废气;排气管 / v. 排出、耗尽力气  |
 | charge                     | v.充电 / n. 收费                    |
 | charging station           | 充电站                              |
 | recharge the battery       | 重新充电                            |
@@ -376,50 +374,50 @@ The driver **is in control of** the car.
 
 ## 第 6 课
 
-| 单词/词组                   | 汉语                            |
-| --------------------------- | ------------------------------- |
-| space / spatial             | n. 空间 / adj. 空间的           |
-| relation                    | 空间                            |
-| spatial relation            | 空间关系                        |
-| Chinese-US relation         | 中美关系                        |
-| water under the bridge      | 桥下流水;无法挽回的过去         |
-| flow                        | (液体、气体、电流)的流动        |
-| waterfall                   | 瀑布                            |
-| passport                    | 护照                            |
-| license                     | 执照;许可证                     |
-| driver license              | 驾照                            |
-| against the law             | 违法                            |
-| influence                   | 影响                            |
-| alcohol                     | 酒精                            |
-| Driving Under the Influence | 酒驾                            |
-| credit card                 | 信用卡                          |
-| useful                      | 有用的                          |
-| in order (not) to do        | 为了(不)                        |
-| by tickets online           | 网上买票                        |
-| get a discount              | 获得折扣                        |
-| deposit                     | 存钱;存储                       |
-| withdraw                    | 取钱;回收;撤退                  |
-| online banking              | 网上银行                        |
-| stay overnight              | 过夜                            |
-| make a reservation          | 预约;预定                       |
-| take/have a break           | 休息一会儿                      |
-| take a break from work      | 工作累了休息一会儿              |
-| repair shop                 | 修理店                          |
-| fix a car = repair a car    | 修车                            |
-| be tired of doing sth.      | 厌倦做某事                      |
-| feel like doing sth.        | 想要做某事                      |
-| upset                       | 沮丧 ; 不舒服                   |
-| deliver                     | 送达 ; 交付                     |
-| deliveryman                 | 送货员                          |
-| find out                    | 找出;弄清楚;发现                |
-| take a walk                 | 散步                            |
-| get lost                    | 迷路                            |
-| three thousand              | 三千                            |
-| thousands of                | 成千上万的                      |
-| take a photo/selfie         | 拍照/自拍                       |
-| share sth. with sb.         | 和某人分享某物                  |
-| fashion / old-fashioned     | 时尚 / 过时的;老派的;思想传统的 |
-| see sb doing sth            | 看见某人正在做某事              |
+| 单词/词组                        | 汉语                            |
+| -------------------------------- | ------------------------------- |
+| space / spatial                  | n. 空间 / adj. 空间的           |
+| relation                         | 空间                            |
+| spatial relation                 | 空间关系                        |
+| Chinese-US relation              | 中美关系                        |
+| water under the bridge           | 桥下流水;无法挽回的过去         |
+| flow                             | (液体、气体、电流)的流动        |
+| waterfall                        | 瀑布                            |
+| passport                         | 护照                            |
+| license                          | 执照;许可证                     |
+| driver license                   | 驾照                            |
+| against the law                  | 违法                            |
+| influence                        | 影响                            |
+| alcohol                          | 酒精                            |
+| Driving Under the Influence      | 酒驾                            |
+| credit card                      | 信用卡                          |
+| useful                           | 有用的                          |
+| in order (not) to do             | 为了(不)                        |
+| by tickets online                | 网上买票                        |
+| get a discount                   | 获得折扣                        |
+| deposit                          | 存钱;存储                       |
+| withdraw                         | 取钱;回收;撤退                  |
+| online banking                   | 网上银行                        |
+| stay overnight                   | 过夜                            |
+| make a reservation               | 预约;预定                       |
+| take/have a break                | 休息一会儿                      |
+| take a break from work           | 工作累了休息一会儿              |
+| repair shop                      | 修理店                          |
+| fix a car = repair a car         | 修车                            |
+| be tired of doing sth.           | 厌倦做某事                      |
+| feel like / feel like doing sth. | 想要某物 / 想要做某事           |
+| upset                            | 沮丧 ; 不舒服                   |
+| deliver / delivery               | v.交付;传送 / n.递送            |
+| deliveryman / delivery person    | 送货员(男) / 送货员(通用)       |
+| find out                         | 找出;弄清楚;发现                |
+| take a walk                      | 散步                            |
+| get lost                         | 迷路                            |
+| three thousand                   | 三千                            |
+| thousands of                     | 成千上万的                      |
+| take a photo/selfie              | 拍照/自拍                       |
+| share sth. with sb.              | 和某人分享某物                  |
+| fashion / old-fashioned          | 时尚 / 过时的;老派的;思想传统的 |
+| see sb doing sth                 | 看见某人正在做某事              |
 
 **under 在...下面** A dog is lying under the tree. <br/>
 **above 在...上方** The plane is flying above the clouds. <br/>
@@ -445,7 +443,10 @@ Repair shops are where people go to fix things which are broken or not working r
 This repair shop fixes cars and can check to see if <u>it is safe to drive</u>. 宾语从句 <br/>
 
 - What do you have in mind? 你有什么想法吗? (用于询问细节)
-- What do you feel like doing this weekend? 这周末你想做点什么?
+- What do you feel like doing this weekend? 这周末你想做点什么? <br/>
+
+I don't feel like cooking tonight. <br/>
+I feel like <u>ordering takeout / getting some delivery food / having dinner delivered</u>.
 
 **当形容词修饰不定代词/不定副词时 , 作后置定语.** <br/>
 There is **nothing difficult** in the world. 世上无难事 <br/>
@@ -523,3 +524,92 @@ For now, she wants them to be happy that she is going to get married. <br/>
 She wants her parents to accept her way of life. <br/>
 Life isn't the same now as it used to be. 现在的生活和以前不一样了 <br/>
 Times are changing. 时代在改变 <br/>
+
+## 第 8 课
+
+| 单词/词组                          | 汉语                                      |
+| ---------------------------------- | ----------------------------------------- |
+| mechanic                           | 机械师                                    |
+| machine                            | 机械设备                                  |
+| fix the washing machine            | 修理这台洗衣机                            |
+| mech / mech engineer               | 机械 / 机械工程师 (非正式缩写)            |
+| pharmacy                           | 药店                                      |
+| pharmacist                         | 药剂师 + ist 后缀                         |
+| musician                           | 音乐家                                    |
+| pianist / violinist / guitarist    | 钢琴家 / 小提琴家 / 吉他手                |
+| cause                              | n. 原因 / v.造成                          |
+| because                            | conj. 因为 (be- 介词前)缀                 |
+| exhaust /ɪɡˈzɔːst/                 | n. 废气;排气管 / v. 排出、耗尽力气        |
+| automobile exhaust                 | 汽车尾气                                  |
+| mud                                | 泥                                        |
+| slide                              | v.滑动 ; n.幻灯片                         |
+| mudslide                           | 泥石流                                    |
+| flood / flooding                   | n.洪水 ; v.淹没                           |
+| overcast                           | 阴天 ; 沮丧                               |
+| might / may                        | 表示推测, 比 may 的可能性更小             |
+| solve problem                      | 解决问题                                  |
+| iced milk tea                      | 冰奶茶                                    |
+| air conditioning = air conditioner | 空调                                      |
+| fiction / non-fiction              | 虚构的文学作品 / 非虚构的文学作品         |
+| novel                              | 长篇小说                                  |
+| imagine / imagination              | v.想象 / n.想象力 (+ ation 后缀)          |
+| adventure                          | n.冒险; v.探险                            |
+| biography / autobiography          | 人物传记 / 自传                           |
+| news / newspaper                   | 新闻 / 报纸                               |
+| chat online                        | 在线聊天                                  |
+| struct / instruct                  | 结构 / v.指导;命令                        |
+| instruction                        | n. 指令、用法说明、操作指南               |
+| an instruction manual              | 一本说明书 ; 一本操作指南手册             |
+| put together                       | 组装                                      |
+| put a bookshelf together           | 组装书架                                  |
+| install an air conditioning        | 安装空调                                  |
+| scientific research                | 科学研究                                  |
+| journals                           | 期刊                                      |
+| academic papers                    | 学术论文                                  |
+| hurt                               | v.受伤; adj.感到疼痛; 受伤的              |
+| broken                             | 破碎的; 骨折的                            |
+| find out                           | 找出;查明                                 |
+| X-ray                              | n. X 光 ; v. 用 X 光检查                  |
+| as soon as possible                | 尽快                                      |
+| suggest                            | 建议                                      |
+| pasta                              | 意大利面的总称(意面有很所细分的品种)      |
+| try something new                  | 尝试新事物(选择范围很广)                  |
+| try some new pasta                 | 尝试新的意大利面(特定的选择范围用 some)   |
+| unpleasant surprises               | 踩雷; 令人不愉快的惊讶                    |
+| compromise                         | n. 妥协; v.折中,让步 / com + promise 承诺 |
+| meet halfway                       | 折中                                      |
+| go 50-50                           | 对半;各让一步                             |
+| predict                            | 预见、预测                                |
+| entire                             | 全部的;整体的                             |
+
+**because 是连词 , 后面接句子 ; because of 是复合介词，后面一般接名词、动名词或者代词** <br/>
+I'm late because <u>I'm too busy</u>. <br/>
+He lost his job because of <u>his age / stealing thing / her</u>. <br/>
+When the sky is overcast, we can't see the sun because of the clouds. <br/>
+
+**It's difficult to do sth.难以做某事** It's difficult to solve this problem. <br/>
+This thief is stealing a television from a home. Stealing things is against the law. <br/>
+One cause of smog is automobile exhaust. <br/>
+We can drink iced milk tea when it's hot outside. <br/>
+When it's really hot, most people **turn on the air conditioning**. <br/>
+
+Works(作品) of fiction include novels, short stories and plays(戏剧), such as Shakespeare(莎士比亚). <br/>
+Non-fiction works include biographies and books about science and history. <br/>
+People read the news to learn about what's happening in the world. <br/>
+We can learn about the latest scientific research in journals and academic papers. <br/>
+
+My left foot **hurts**. / I fell down and **hurt** my head.
+
+- **if 作为“是否” , 一般不能放在句子开头而是放在动词后 , 引出一个从句 ， 可以用不同的时态**
+- **if 作为“如果” 引导条件状语从句 ，可以放在句子开头，时态上遵循“主将从现”**
+
+I don't know if it's broken, but it sure hurts. <br/>
+If you ask him, he will help you. <br/>
+There's one way to find out if it's broken: you need to see a doctor, who can X-ray your foot. <br/>
+I can't walk by **myself**. / I'll get you to a hospital as soon as possible. <br/>
+
+What do you suggest? / Where would you like to go? 你有什么建议？ / 你想去哪里？<br/>
+I suggest we go out to eat. Let's **trying something new**, like some different kinds of pasta. <br/>
+I don't like unpleasant surprises(踩雷). I just want things to be simple. <br/>
+Compromise means meeting halfway or going 50-50. <br/>
+Let's not go to late. </br>

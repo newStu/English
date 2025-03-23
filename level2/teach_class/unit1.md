@@ -270,29 +270,29 @@ Which line should I take to get to the city center? Take Line 3.<br/>
 
 ## 第 7 课
 
-| 单词/词组                   | 汉语                      |
-| --------------------------- | ------------------------- |
-| apartment                   | 公寓                      |
-| own                         | v.拥有;adj.自己的         |
-| owner                       | 拥有者;自己的             |
-| owner of the car            | 车子的主任                |
-| rent                        | v.租赁;n.租金             |
-| rent...from...              | 向...租借...              |
-| pay...to...                 | 付...给某人               |
-| another                     | 同一类食物中的另一个      |
-| salary                      | 薪水;工资(固定薪酬)       |
-| income                      | 收入(工资+投资收益的总和) |
-| 20 percent = 20%            | 20%                       |
-| fortunately / unfortunately | 幸运的 / 不幸的           |
-| expense                     | n.支出;开销               |
-| expensive                   | adj.昂贵的;花钱多的       |
-| education                   | 教育                      |
-| a free lunch                | 免费午餐                  |
-| include                     | 包含                      |
-| save                        | 储蓄; 救助                |
-| save me                     | 救救我                    |
-| save money                  | 攒钱                      |
-| put money in the bank       | 把钱存入银行              |
+| 单词/词组                   | 汉语                         |
+| --------------------------- | ---------------------------- |
+| apartment                   | 公寓                         |
+| own                         | v.拥有;adj.自己的            |
+| owner                       | 拥有者;自己的                |
+| owner of the car            | 车子的主任                   |
+| rent                        | v.租赁;n.租金                |
+| rent...from...              | 向...租借...                 |
+| pay...to...                 | 付...给某人                  |
+| another                     | 同一类食物中的另一个         |
+| salary                      | 薪水;工资(固定薪酬)          |
+| income                      | 收入(工资+投资收益的总和)    |
+| 20 percent = 20%            | 20%                          |
+| fortunately / unfortunately | 幸运的 / 不幸的 (通常放句首) |
+| expense                     | n.支出;开销                  |
+| expensive                   | adj.昂贵的;花钱多的          |
+| education                   | 教育                         |
+| a free lunch                | 免费午餐                     |
+| include                     | 包含                         |
+| save                        | 储蓄; 救助                   |
+| save me                     | 救救我                       |
+| save money                  | 攒钱                         |
+| put money in the bank       | 把钱存入银行                 |
 
 They don't own it. Another person owns it. (宾语是 it)<br/>
 The Jacksons rent it from the owner. (rent it 连读 ; the/ởi:/ owner) <br/>

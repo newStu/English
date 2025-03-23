@@ -13,7 +13,7 @@
 | rest                           | 剩余部分                      |
 | the rest of the day            | 这一天接下来的时间            |
 | first                          | 首先,第一 (副词)              |
-| **in** + 一段时间 / in an hour | 一段时间以后                  |
+| **in** + 一段时间 / in an hour | 一段时间以后 / 一小时以后     |
 | competition                    | 竞赛;比赛                     |
 | text                           | 发消息(动词)                  |
 | tonight                        | 今晚                          |
@@ -222,34 +222,33 @@ How much is the **total cost**? <br/>
 
 ## 第 25 课
 
-| 单词/词组                      | 汉语                  |
-| ------------------------------ | --------------------- |
-| dry / wet                      | 干的 / 湿的           |
-| got out of                     | 脱离某物              |
-| take off                       | 普通的脱衣服          |
-| make an appointment            | 预约                  |
-| get out of the bed             | 起床                  |
-| get dressed                    | 穿好衣服              |
-| receptionist                   | 接待员                |
-| wait for ten minutes           | 等待 10 分钟          |
-| beat                           | 跳动;击败             |
-| listen to one's heartbeat      | 听某人的心跳          |
-| shot                           | 射击                  |
-| a shot                         | 一次注射;枪声         |
-| pharmacy                       | 药店                  |
-| medicine                       | 药品                  |
-| liquids                        | 液体                  |
-| **take** some medicine         | 吃药                  |
-| think about sth.               | 思考某事              |
-| look forward to **doing** sth. | 期待做某事            |
-| have/catch a cold              | 感冒                  |
-| hit - hit - hit                | 碰撞;打               |
-| fly - flew - flown             | 飞                    |
-| hopefully                      | 但愿;希望(常用语句首) |
-| alive                          | 活着的                |
-| careful                        | 小心的;谨慎的         |
-| couple                         | 夫妇;一对;几个        |
-| a couple of hours              | 几个小时              |
+| 单词/词组                    | 汉语                    |
+| ---------------------------- | ----------------------- |
+| dry / wet                    | 干的 / 湿的             |
+| take off / got out of        | 普通的脱衣服 / 脱离某物 |
+| get out of the bed           | 起床                    |
+| make an appointment          | 预约                    |
+| get dressed                  | 穿好衣服                |
+| receptionist                 | 接待员                  |
+| wait for ten minutes         | 等待 10 分钟            |
+| beat                         | 跳动;击败               |
+| listen to one's heartbeat    | 听某人的心跳            |
+| shot / a shot                | 射击 / 一次注射;枪声    |
+| pharmacy                     | 药店                    |
+| medicine                     | 药品                    |
+| liquids                      | 液体                    |
+| **take** some medicine       | 吃药                    |
+| think about sth.             | 思考某事                |
+| look forward to (doing) sth. | 期待(做)某事            |
+| have/catch a cold            | 感冒                    |
+| hit - hit - hit              | 碰撞;打                 |
+| fly - flew - flown           | 飞                      |
+| hopefully                    | 但愿;希望(常用语句首)   |
+| alive                        | 活着的                  |
+| careful                      | 小心的;谨慎的           |
+| couple                       | 夫妇;一对;两个;几个     |
+| a couple of hours            | 几个小时                |
+| a couple of men              | 两个男人                |
 
 **过去进行时 : 过去某段时间中正在进行或一直在进行的动作.** <br/>
 **be 动词过去式 + 动词 ing**
@@ -262,6 +261,7 @@ Her mother took her temperature and found it was 39 degrees, so she called the d
 
 The doctor **gave her a shot**. Lisa doesn't mind that the shot **hurts a little**, because she wants to feel better. 有一点点疼 <br/>
 Her mother bought some medicine. She **took some medicine** and drank a lot of **liquids**. <br/>
+This **couple** take several trips a year often to different countries. <br/>
 She slept **a couple of hours**.她睡了几个小时 <br/>
 By six o'clock, she **was feeling** much better. She is thinking about tomorrow. She **is looking forward to** going to school. <br/>
 

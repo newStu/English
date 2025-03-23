@@ -496,7 +496,7 @@ People's Park will **be on your left**. 人民公园就在你的左侧
 | 身体部位+length                   | 道身体某个部位的长度           |
 | try sth. **on**                   | 试穿 (在人的身上)              |
 | dressing room                     | 更衣室                         |
-| sexy                              | 性感的                         |
+| sexy / hot                        | 性感的                         |
 | cover                             | 覆盖                           |
 | waist                             | 腰部;腰围                      |
 | figure                            | 身材;图形                      |
@@ -532,3 +532,4 @@ How much **is** this dress? / How much **are** the shoes?
 I think it's too big in the waist. / We can fix it by taking it in a bit. (by + 动名词结构) <br/>
 It shows your figure, but not too much. / You have a good figure. <br/>
 Can you give me **a better price** ? 更优惠的价格 <br/>
+Can you help me with my homework?

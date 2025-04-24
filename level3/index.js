@@ -18,6 +18,10 @@ export default [
       {
         "text": "unit 2",
         "link": "/level3/teach_class/unit2.md"
+      },
+      {
+        "text": "unit 3",
+        "link": "/level3/teach_class/unit3.md"
       }
     ]
   }

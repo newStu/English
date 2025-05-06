@@ -24,5 +24,26 @@ export default [
         "link": "/level2/teach_class/unit3.md"
       }
     ]
+  },
+  {
+    "text": "课本",
+    "items": [
+      {
+        "text": "我想吃披萨",
+        "link": "/level2/text_book/2-1.md"
+      },
+      {
+        "text": "我喜欢打羽毛球",
+        "link": "/level2/text_book/2-2.md"
+      },
+      {
+        "text": "喜好与观点",
+        "link": "/level2/text_book/2-3.md"
+      },
+      {
+        "text": "我喜欢大多数的零食",
+        "link": "/level2/text_book/2-4.md"
+      }
+    ]
   }
 ]

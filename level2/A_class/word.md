@@ -1,6 +1,222 @@
 # 单词
 
-| 单词/词组 | 汉语               |
-| --------- | ------------------ |
-| cross     | 交叉 ; 横过        |
-| across    | 穿过 ; 在...的对面 |
+| 单词           | 汉语               | 单词           | 汉语                |
+| -------------- | ------------------ | -------------- | ------------------- |
+| cross          | 交叉 ; 横过        | across         | 穿过 ; 在...的对面  |
+| fantastic      | 极好的 ; 奇幻的    | flame          | 火焰 ; 热情         |
+| speech         | 演讲 ; 言语        | faithful       | 忠诚的 ; 忠实的     |
+| racial         | 种族的             | shoot          | 射击 ; 拍摄         |
+| repeat         | 重复 ; 再做一次    | sweater        | 毛衣                |
+| million        | 百万               | iron           | 铁                  |
+| glove          | 手套               | silver         | 银 ; 银色的         |
+| shorts         | 短裤               | jewellery      | 珠宝                |
+| pants          | 短裤               | plastic        | 塑料 ; 塑造的       |
+| tights         | 紧身裤 ; 连裤袜    | belt           | 腰带 ; 束紧         |
+| advertisement  | 广告               | police         | 警察                |
+| explain        | 解释               | mechanic       | 机械师              |
+| reason         | 原因               | machine        | 机械师              |
+| occupation     | 职业               | salesperson    | 销售员              |
+| assist         | 帮助               | teenager       | 青少年              |
+| assistant      | 助手               | adult          | 成年人              |
+| engineer       | 工程师             | weekly         | 每周的              |
+| officer        | 官员 ; 军官        | prepare        | 准备                |
+| dish           | 盘子 ; 菜肴        | hunting        | 狩猎                |
+| midday         | 中午               | confident      | 自信的              |
+| bother         | 麻烦               | dessert        | 甜点                |
+| brother        | 兄弟               | pool           | 水池                |
+| umbrella       | 雨伞               | especially     | 特别地              |
+| goal           | 目标               | rat            | 老鼠                |
+| district       | 地区               | insect         | 昆虫                |
+| strict         | 严格的             | relationship   | 昆虫                |
+| actually       | 实际上             | thirsty        | 渴望的              |
+| canyon         | 峡谷               | unfortunately  | 不幸地              |
+| direction      | 方向               | definitely     | 肯定的              |
+| probably       | 可能的             | degree         | 温度;角度;程度      |
+| fry            | 油炸               | adventure      | 冒险                |
+| wonder         | v.想知道 n.惊讶    | countryside    | 乡村                |
+| wonderful      | adj.精彩的         | toast          | 吐司                |
+| least          | 最少的             | grill          | 烧烤                |
+| community      | 社区               | roast          | 烤制                |
+| drama          | 戏剧               | pasta          | 意大利面            |
+| perhaps        | 也许               | alcohol        | 酒精                |
+| jam            | 果酱 ; 阻塞        | bottle         | 瓶子                |
+| extra          | 额外的             | fat            | 胖的 ; 脂肪         |
+| close          | 关闭 ; 亲密的      | fit            | 健康的 ; 合适的     |
+| dressing       | 调味汁 ; 穿衣      | deal           | 交易                |
+| avocado        | 鳄梨               | alligator      | 短吻鳄              |
+| cucumber       | 黄瓜               | sink           | 下沉 ; 水槽         |
+| garlic         | 大蒜               | hall           | 大厅                |
+| downtown       | 市中心             | receptionist   | 接待员              |
+| available      | 可用的             | awesome        | 极好的              |
+| horrible       | 可怕的(恐惧或厌恶) | notice         | 注意                |
+| terrible       | 糟糕的(失望或不满) | ship           | 船只                |
+| bridge         | 桥梁               | caviar         | 鱼子酱              |
+| latest         | 最新的             | fridge         | 冰箱                |
+| modern         | 现代的             | review         | 评论                |
+| without        | 没有               | rock           | 岩石 ; 摇滚乐       |
+| secret         | 秘密的             | leather        | 皮革                |
+| secretary      | 秘书               | folder         | 文件夹              |
+| king           | 国王               | sandcastle     | 沙堡                |
+| queen          | 女王               | competition    | 比赛                |
+| castle         | 城堡               | hockey         | 曲棍球              |
+| sailing        | 帆船运动           | surf           | 冲浪                |
+| skiing         | 滑雪               | racket         | 球拍                |
+| snowboard      | 滑雪板             | waste          | 浪费                |
+| gallery        | 画廊               | professional   | 专业的              |
+| activity       | 活动               | bite           | 咬                  |
+| passion        | 热情               | skate          | 滑板                |
+| skateboarding  | 滑板               | space          | 空间                |
+| stove          | 炉子; 厨灶         | ceiling        | 天花板              |
+| flagpole       | 旗杆               | belong         | 属于                |
+| palace         | 宫殿               | roof           | 屋顶                |
+| royal          | 皇家的             | neighbour      | 邻居                |
+| college        | 学院               | neighbourhood  | 街区;街坊           |
+| colleague      | 同事               | downstairs     | 楼下                |
+| university     | 大学               | upstairs       | 楼上                |
+| graduate       | 毕业               | fair           | 公平的;集市         |
+| record         | 记录               | variety        | 多样性的            |
+| photography    | 摄影               | yogurt         | 酸奶                |
+| concert        | 音乐会             | theater        | 剧场(美式)          |
+| album          | 相册;专辑          | theatre        | 剧场(英式)          |
+| soul           | 灵魂               | chip           | 薯片;芯片           |
+| musical        | 音乐的             | snack          | 小吃                |
+| experience     | 经验               | snake          | 蛇                  |
+| salty          | 咸的               | lemonade       | 柠檬水              |
+| convenient     | 方便的             | tidy           | 整洁的              |
+| liter          | 升                 | battery        | 电池                |
+| hurry          | 匆忙               | garage         | 车库                |
+| profit         | 利润               | field          | 田野                |
+| stadium        | 体育场             | shout          | 喊叫                |
+| gym            | 健身房             | upset          | 心烦意乱的          |
+| concession     | 认可;优惠价        | glad           | 高兴的              |
+| capsule        | 胶囊               | hate           | 憎恨                |
+| brand          | 品牌               | polite         | 有礼貌的            |
+| repair         | 修理               | mean           | v.意味着 ; adj.刻薄 |
+| uniform        | 制服               | muscle         | 肌肉                |
+| kilogram       | 千克               | exercise       | 锻炼                |
+| sausage        | 香肠               | workout        | 锻炼                |
+| gas            | 气体               | stretch        | 伸展                |
+| load           | 负载               | wind           | 风                  |
+| cheer          | 欢呼               | wide           | 宽的                |
+| pleased        | 高兴的             | quality        | 质量                |
+| mad            | 疯狂的             | point          | 点                  |
+| brilliant      | 颇具天赋的         | staff          | 员工                |
+| smell          | 气味               | stuff          | 东西                |
+| touch          | 触摸               | practice       | 实践                |
+| mall           | 商场               | discover       | 发现                |
+| plus / minus   | 加 / 减            | recover        | 恢复                |
+| bill           | 账单               | regular        | 规律的; 定期的      |
+| fee            | 费用               | almost         | 几乎                |
+| fare           | 车费               | letter         | 信件                |
+| cash           | 现金               | envelope       | 信封                |
+| pure           | 纯净的             | teamwork       | 团队合作            |
+| purified water | 纯净水             | teammate       | 队友                |
+| hurt           | 受伤               | solve          | 解决                |
+| opinion        | 意见               | temperature    | 温度                |
+| flight         | 航班               | pain           | 疼痛                |
+| place          | 地点               | delay          | 延误                |
+| further        | 更进一步的         | insurance      | 保险                |
+| credit card    | 信用卡             | fever          | 发烧                |
+| anyway         | 无论如何           | medicine       | 药物                |
+| dead           | 死亡的             | company        | 公司;陪伴           |
+| kill           | 杀死               | afford         | 负担得起            |
+| engine         | 发动机             | dentist        | 牙医                |
+| away           | 远离               | airline        | 航空公司            |
+| avenue         | 大道;交通主干      | plane          | 飞机                |
+| ambulance      | 救护车             | airport        | 机场                |
+| accident       | 事故               | foggy          | 有雾的              |
+| emergency      | 紧急情况           | wet            | 潮湿的              |
+| earthquake     | 地震               | dry            | 干燥的              |
+| sign           | 标志               | helicopter     | 直升飞机            |
+| gate           | 大门               | thunderstorm   | 雷雨                |
+| brain          | 大脑               | pilot          | 飞行员              |
+| stomach        | 胃                 | sentence       | 句子                |
+| blood          | 血液               | website        | 网站                |
+| physics        | 物理学             | correct        | 正确的              |
+| geography      | 地理学             | contact        | 联系                |
+| chemistry      | 化学               | contract       | 合同                |
+| biology        | 生物学             | park           | 公园;停车           |
+| science        | 科学               | romantic       | 浪漫的              |
+| department     | 部门               | square         | 广场;方形           |
+| course         | 课程               | mirror         | 镜子                |
+| blow           | 吹                 | round          | 圆形的              |
+| guest          | 客人               | library        | 图书馆              |
+| client         | 客户               | excellent      | 极好的              |
+| diploma        | 文凭               | chef           | 主厨                |
+| fact           | 事实               | helmet         | 头盔                |
+| break          | 打破;休息          | motorbike      | 摩托车              |
+| ill            | 生病的             | platform       | 月台                |
+| sick           | 生病的             | wedding        | 婚礼                |
+| cigarette      | 香烟               | electric       | 电动的              |
+| appointment    | 约会               | electricity    | 电力                |
+| disappointed   | 失望的             | wheel          | 轮子                |
+| fall           | 落下               | scooter        | 踏板车              |
+| complete       | 完整的             | passenger      | 乘客                |
+| super          | 极好的             | present        | 礼物                |
+| noisy          | 吵闹的             | wrap           | 包装                |
+| environment    | 环境               | souvenir       | 纪念品              |
+| rail           | 铁轨               | euro           | 欧元                |
+| railway        | 铁路               | tie            | 领带                |
+| durian         | 榴莲               | recently       | 最近                |
+| yet            | 然而               | totally        | 完全地              |
+| century        | 世纪               | economy        | 经济                |
+| pray           | 祈祷               | passport       | 护照                |
+| God            | 上帝               | recipe         | 食谱                |
+| church         | 教堂               | scarf          | 围巾                |
+| cathedral      | 大教堂             | fashion        | 时尚                |
+| elevator       | 电梯               | resume         | 简历                |
+| pound          | 英镑               | culture        | 文化                |
+| license        | 许可证             | marketing      | 营销                |
+| painter        | 画家               | sticker        | 贴纸                |
+| leader         | 领导               | lipstick       | 口红                |
+| suppose        | 假设               | makeup         | 化妆                |
+| Christmas      | 圣诞节             | medium         | 媒介                |
+| festival       | 节日               | social         | 社交的              |
+| advantage      | 优势               | furniture      | 家具                |
+| rent           | 租金               | mayor          | 市长                |
+| paycheck       | 工资               | capital        | 首都;大写字母       |
+| nervous        | 紧张的             | landlord       | 房东                |
+| vet            | 兽医               | shame          | 害羞                |
+| accept         | 接受               | curtain        | 窗帘                |
+| celebrate      | 庆祝               | carpet         | 地毯                |
+| magazine       | 杂志               | blanket        | 毯子                |
+| comb           | 梳子               | wool           | 羊毛                |
+| shampoo        | 洗发水             | drawer         | 抽屉                |
+| certainly      | 当然               | cupboard       | 橱柜                |
+| hotpot         | 火锅               | sauce          | 酱料                |
+| embassy        | 大使馆             | unusual        | 不寻常的            |
+| visa           | 签证               | exit           | 出口                |
+| foreign        | 外国的             | entrance       | 入口                |
+| abroad         | 国外               | instruction    | 指示                |
+| cappuccino     | 卡布奇诺           | freeze         | 冷冻                |
+| pancake        | 薄煎饼             | bask           | 晒太阳              |
+| challenge      | 挑战               | serious        | 严肃的              |
+| towel          | 毛巾               | honest         | 诚实的              |
+| scissors       | 枕头               | pepper         | 胡椒                |
+| pillow         | 枕头               | curry          | 咖喱                |
+| wooden         | 木制的             | separate       | 分开                |
+| pity           | 同情,遗憾          | identification | 身份证明            |
+| per            | 每                 | inspire        | 激励                |
+| scale          | 规模               | regret         | 遗憾                |
+| limb           | 肢                 | impossible     | 不可能的            |
+| champagne      | 香槟               | compelling     | 引人注目的          |
+| determined     | 坚定的             | interview      | 面试                |
+| discuss        | 讨论               | couple         | 夫妻;一对           |
+| issue          | 问题               | psychologist   | 心理学家            |
+| through        | 通过               | spicy          | 辛辣的              |
+| situation      | 情况               | pump           | 泵;抽水器           |
+| buddy          | 朋友               | seasick        | 晕船                |
+| proposal       | 提议               | premiere       | 首映                |
+| inspiration    | 灵感               | spoiler        | 泄密者;剧透         |
+| preference     | 偏好               | expect         | 期待                |
+| ceremony       | 仪式               | official       | 官方的              |
+| banquet        | 宴会               | officially     | 正式的              |
+| refund         | 退款               | connection     | 连接                |
+| remain         | 保持               | favor          | 喜欢;支持           |
+| action         | 行动               | favorite       | 最喜欢的            |
+| reservation    | 预订               | soybean        | 大豆                |
+| confirmation   | 确认               | partner        | 合作伙伴            |
+| cause          | 原因               | stroll         | 散步 ; 闲逛         |
+| decorate       | 装饰               | truly          | 真正的              |
+| decoration     | 装饰               | inform         | 通知                |
+| redecorate     | 重新装饰           |

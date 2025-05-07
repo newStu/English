@@ -126,3 +126,5 @@
 | please - pleased - pleased                            | 请                                |
 | pleased                                               | adj.高兴的; 愉快的(正式)          |
 | glad                                                  | adj.高兴的; 愉快的(口语化)        |
+| cross                                                 | 交叉 ; 横过                       |
+| across                                                | 穿过 ; 在...的对面                |

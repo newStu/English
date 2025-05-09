@@ -7,15 +7,15 @@ export default [
         "link": "/level3/A_class/3-0.md"
       },
       {
-        "text": "我们决定养宠物",
+        "text": "3-1 我们决定养宠物",
         "link": "/level3/A_class/3-1.md"
       },
       {
-        "text": "影视明星",
+        "text": "3-2 影视明星",
         "link": "/level3/A_class/3-2.md"
       },
       {
-        "text": "我最喜欢那辆寿司餐车",
+        "text": "3-3 我最喜欢那辆寿司餐车",
         "link": "/level3/A_class/3-3.md"
       }
     ]

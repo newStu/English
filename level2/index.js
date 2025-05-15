@@ -29,6 +29,10 @@ export default [
       {
         "text": "2-6 我出生在多伦多",
         "link": "/level2/A_class/2-6.md"
+      },
+      {
+        "text": "2-7 我想去钓鱼",
+        "link": "/level2/A_class/2-7.md"
       }
     ]
   },

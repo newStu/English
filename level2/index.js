@@ -33,6 +33,10 @@ export default [
       {
         "text": "2-7 我想去钓鱼",
         "link": "/level2/A_class/2-7.md"
+      },
+      {
+        "text": "2-8 我的预算是 200 美元",
+        "link": "/level2/A_class/2-8.md"
       }
     ]
   },

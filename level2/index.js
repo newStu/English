@@ -37,6 +37,10 @@ export default [
       {
         "text": "2-8 我的预算是 200 美元",
         "link": "/level2/A_class/2-8.md"
+      },
+      {
+        "text": "2-9 我准备找一个新工作",
+        "link": "/level2/A_class/2-9.md"
       }
     ]
   },

@@ -11,10 +11,6 @@ export default [
         link: "/level2/A_class/2-1.md",
       },
       {
-        text: "2-10 让我们给她办一个派对",
-        link: "/level2/A_class/2-10.md",
-      },
-      {
         text: "2-2 我喜欢打羽毛球",
         link: "/level2/A_class/2-2.md",
       },
@@ -53,6 +49,10 @@ export default [
       {
         text: "2-11 你想来参加聚会吗?",
         link: "/level2/A_class/2-11.md",
+      },
+      {
+        text: "2-12 让我带你参观办公室",
+        link: "/level2/A_class/2-12.md",
       },
     ],
   },

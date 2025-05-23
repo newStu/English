@@ -54,6 +54,10 @@ export default [
         text: "2-12 让我带你参观办公室",
         link: "/level2/A_class/2-12.md",
       },
+      {
+        text: "2-13 每年有数百万人来这里",
+        link: "/level2/A_class/2-13.md",
+      },
     ],
   },
   {

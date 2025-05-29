@@ -62,11 +62,11 @@ export default [
         "text": "2-14 今天有可能下雨",
         "link": "/level2/A_class/2-14.md"
       },
-        {
+      {
         "text": "2-15 这家酒店更新",
         "link": "/level2/A_class/2-15.md"
       },
-       {
+      {
         "text": "2-16 伦敦比纽约更古老",
         "link": "/level2/A_class/2-16.md"
       }

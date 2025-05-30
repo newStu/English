@@ -7,6 +7,34 @@ export default [
         link: "/grammar/zb_class/语法综述.md",
       },
       {
+        text: "学习方法",
+        link: "/grammar/zb_class/学习方法.md",
+      },
+      {
+        text: "名词",
+        link: "/grammar/zb_class/名词.md",
+      },
+      {
+        text: "形容词",
+        link: "/grammar/zb_class/形容词.md",
+      },
+      {
+        text: "动词",
+        link: "/grammar/zb_class/动词.md",
+      },
+      {
+        text: "代词",
+        link: "/grammar/zb_class/代词.md",
+      },
+      {
+        text: "副词",
+        link: "/grammar/zb_class/副词.md",
+      },
+      {
+        text: "介词",
+        link: "/grammar/zb_class/介词.md",
+      },
+      {
         text: "数词",
         link: "/grammar/zb_class/数词.md",
       },

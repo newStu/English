@@ -3,10 +3,6 @@ export default [
     "text": "懂你 A+",
     "items": [
       {
-        "text": "单词",
-        "link": "/level3/A_class/3-0.md"
-      },
-      {
         "text": "3-1 我们决定养宠物",
         "link": "/level3/A_class/3-1.md"
       },

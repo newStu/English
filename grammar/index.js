@@ -38,6 +38,10 @@ export default [
         text: "数词",
         link: "/grammar/zb_class/数词.md",
       },
+      {
+        text: "时态",
+        link: "/grammar/zb_class/时态.md",
+      },
     ],
   },
   {

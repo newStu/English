@@ -74,7 +74,7 @@ export default [
         "text": "2-17 我想换更便宜的公寓",
         "link": "/level2/A_class/2-17.md"
       },
-       {
+      {
         "text": "2-18 我喜欢我的新工作",
         "link": "/level2/A_class/2-18.md"
       }

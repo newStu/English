@@ -77,6 +77,18 @@ export default [
       {
         "text": "2-18 我喜欢我的新工作",
         "link": "/level2/A_class/2-18.md"
+      },
+      {
+        "text": "2-19 去超市买东西",
+        "link": "/level2/A_class/2-19.md"
+      },
+      {
+        "text": "2-20 热身后再运动",
+        "link": "/level2/A_class/2-20.md"
+      },
+      {
+        "text": "2-21 学会和团队合作",
+        "link": "/level2/A_class/2-21.md"
       }
     ]
   },

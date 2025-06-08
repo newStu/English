@@ -13,6 +13,10 @@ export default [
       {
         "text": "3-3 我最喜欢那辆寿司餐车",
         "link": "/level3/A_class/3-3.md"
+      },
+      {
+        "text": "3-4 假如生活不一样",
+        "link": "/level3/A_class/3-4.md"
       }
     ]
   },

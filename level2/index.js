@@ -89,7 +89,19 @@ export default [
       {
         "text": "2-21 学会和团队合作",
         "link": "/level2/A_class/2-21.md"
-      }
+      },
+      {
+        "text": "2-22 我发生了车祸",
+        "link": "/level2/A_class/2-22.md"
+      },
+      {
+        "text": "2-23 我的头很痛",
+        "link": "/level2/A_class/2-23.md"
+      },
+      {
+        "text": "2-24 我没能订到其他的航班",
+        "link": "/level2/A_class/2-24.md"
+      },
     ]
   },
   {

@@ -42,6 +42,22 @@ export default [
         text: "时态",
         link: "/grammar/zb_class/时态.md",
       },
+      {
+        text: "句型",
+        link: "/grammar/zb_class/句型.md",
+      },
+      {
+        text: "听说",
+        link: "/grammar/zb_class/听说.md",
+      },
+      {
+        text: "小词大用",
+        link: "/grammar/zb_class/小词大用.md",
+      },
+      {
+        text: "其他",
+        link: "/grammar/zb_class/其他.md",
+      },
     ],
   },
   {

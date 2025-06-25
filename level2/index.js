@@ -101,7 +101,7 @@ export default [
       {
         "text": "2-24 我没能订到其他的航班",
         "link": "/level2/A_class/2-24.md"
-      },
+      }
     ]
   },
   {

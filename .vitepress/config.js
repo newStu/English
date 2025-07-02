@@ -16,7 +16,24 @@ export default defineConfig({
   base: "/English/",
   srcDir: ".",
   outDir: "dist",
-  head: [["link", { rel: "icon", href: "/English/public/icon.svg" }]],
+  head: [
+    ["link", { rel: "icon", href: "/English/public/icon.svg" }],
+    [
+      "script",
+      { id: "register-sw", defer: true },
+      `;(() => {
+            document.addEventListener("dblclick", function (event) {
+                const selection = window.getSelection();
+                const selectedText = selection.toString().trim(); 
+                if (selectedText && /\\w+/.test(selectedText)) {
+                    window.open("https://dictionary.cambridge.org/dictionary/english-chinese-simplified/" + selectedText)
+                } else {
+                    console.log("未选中有效单词");
+                }
+            });
+        })()`,
+    ],
+  ],
   themeConfig: {
     lastUpdated: { text: "2024-06-16" },
     outlineTitle: "页面导航",

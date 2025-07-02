@@ -72,7 +72,6 @@ export default [
       { text: "形容词", link: "/grammar/sum_class/形容词.md" },
       { text: "副词", link: "/grammar/sum_class/副词.md" },
       { text: "动词", link: "/grammar/sum_class/动词.md" },
-      { text: "小词大用", link: "/grammar/sum_class/小词大用.md" },
       { text: "小知识点集合", link: "/grammar/sum_class/小知识点集合.md" },
       { text: "简单句", link: "/grammar/sum_class/简单句.md" },
       { text: "复杂句", link: "/grammar/sum_class/复杂句.md" },

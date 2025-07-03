@@ -115,7 +115,7 @@ We go to school **at 8:00**. We come home **around 4:00**. <br/>
 | primary / medium school                            | 小 / 中学                              |
 | university / college                               | 大学(包含本硕博) / 大学(本科+职业培训) |
 | at least                                           | 至少                                   |
-| at least years old                                 | 至少 18 岁                             |
+| at least 18 years old                              | 至少 18 岁                             |
 | little - less - least                              | 少                                     |
 | at most                                            | 至多                                   |
 | many/much - more - most                            | 多                                     |

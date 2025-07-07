@@ -17,6 +17,10 @@ export default [
       {
         "text": "3-4 假如生活不一样",
         "link": "/level3/A_class/3-4.md"
+      },
+      {
+        "text": "3-5 约会经历",
+        "link": "/level3/A_class/3-5.md"
       }
     ]
   },

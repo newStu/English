@@ -183,38 +183,38 @@ I have a picture **on my phone**.
 
 ## 第 5 课
 
-| 单词/词组                      | 汉语                                              |
-| ------------------------------ | ------------------------------------------------- |
-| look at the map                | 看地图                                            |
-| road                           | 道路                                              |
-| drive on the road              | 在路上开车                                        |
-| build a road                   | 修路                                              |
-| avenue / street                | 大道;交通主干 / 泛指各种街道                      |
-| main street = high street      | 大街                                              |
-| go                             | 通向;延申                                         |
-| side                           | 一边;面;侧面                                      |
-| write on one side of the paper | 在纸的一面写                                      |
-| is on the west side of         | 在...西面                                         |
-| a small shopping center        | 一个小的购物中心                                  |
-| subway                         | 地铁                                              |
-| take the subway/bus/train      | 乘地铁                                            |
-| take the subway to work        | 搭地铁去上班                                      |
-| own a car/house                | 拥有一辆车/房                                     |
-| across                         | 在...对面                                         |
-| cross                          | 穿过; 交叉;十字形                                 |
-| walk                           | v.走; / n.小道;走道                               |
-| crosswalk                      | 人形横道;斑马线                                   |
-| sidewalk                       | 人行道                                            |
-| crossroad                      | 十字路口                                          |
-| traffic light                  | 交通灯                                            |
-| corner                         | 拐角处                                            |
-| (public) restroom              | 洗手间(主要用于公共场合,礼貌用语)                 |
-| bathroom                       | 洗手间(通用词,更侧重私人住宅中的浴室)             |
-| toilet                         | 马桶本身(带代指卫生间,不太礼貌)                   |
-| fruit(s)                       | 泛指"水果"表示整体概念时不可数;表示具体种类时可数 |
-| vegetables                     | 蔬菜通常是单独的个体 , 可数名词                   |
-| example                        | 例子                                              |
-| popular                        | 流行的;受欢迎的                                   |
+| 单词/词组                      | 汉语                                    |
+| ------------------------------ | --------------------------------------- |
+| look at the map                | 看地图                                  |
+| road                           | 道路                                    |
+| drive on the road              | 在路上开车                              |
+| build a road                   | 修路                                    |
+| avenue / street                | 大道;交通主干 / 泛指各种街道            |
+| main street = high street      | 大街                                    |
+| go                             | 通向;延申                               |
+| side                           | 一边;面;侧面                            |
+| write on one side of the paper | 在纸的一面写                            |
+| is on the west side of         | 在...西面                               |
+| a small shopping center        | 一个小的购物中心                        |
+| subway                         | 地铁                                    |
+| take the subway/bus/train      | 乘地铁                                  |
+| take the subway to work        | 搭地铁去上班                            |
+| own a car/house                | 拥有一辆车/房                           |
+| across                         | 在...对面                               |
+| cross                          | 穿过; 交叉;十字形                       |
+| walk                           | v.走; / n.小道;走道                     |
+| crosswalk                      | 人形横道;斑马线                         |
+| sidewalk                       | 人行道                                  |
+| crossroad                      | 十字路口                                |
+| traffic light                  | 交通灯                                  |
+| corner                         | 拐角处                                  |
+| (public) restroom              | 洗手间(主要用于公共场合,礼貌用语)       |
+| bathroom                       | 洗手间(通用词,更侧重私人住宅中的浴室)   |
+| toilet                         | 马桶本身(带代指卫生间,不太礼貌)         |
+| fruit(s)                       | 泛指整体概念时不可数;表示具体种类时可数 |
+| vegetable(s)                   | 泛指整体概念时不可数;表示具体种类时可数 |
+| example / for example          | 例子 / 例如                             |
+| popular                        | 流行的;受欢迎的                         |
 
 A pond and some trees are **behind** the building. (陈述语序) <br/>
 Behind the building is a pond and some trees. (倒装语序) <br/>
@@ -228,7 +228,7 @@ On the west side of the street is Their building. (倒装语序) <br/>
 This avenue **goes south**. 这条大道朝南 <br/>
 The road **goes to paris**. 这条路通往巴黎 <br/>
 
-I love eating **fruit and vegetables**. 水果和蔬菜表整体概念 <br/>
+I love eating **fruit and vegetable**. 水果和蔬菜表整体概念 <br/>
 There are many kinds of **fruits and vegetables** in the market. (水果和蔬菜的种类可数) <br/>
 Orange **is an example of** fruit. <br/>
 
@@ -249,8 +249,9 @@ Orange **is an example of** fruit. <br/>
 | want sth.                               | 想要某物                              |
 | have breakfast / lunch / dinner         | 吃早/中/晚饭                          |
 | metro = subway                          | 地铁                                  |
-| railway                                 | 铁路                                  |
+| rail / railway                          | 轨道;栏杆 / 铁路                      |
 | tube / underground                      | 特指伦敦地铁/地铁(英式)               |
+| ground / playground                     | 地面 / 操场                           |
 | subway entrance / exit                  | 地铁入口/出口                         |
 | subway stop / subway station            | 地铁站(完整设施)/地铁停靠站(具体位置) |
 | north of the shopping center            | 购物中心以北                          |

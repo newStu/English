@@ -276,7 +276,7 @@ Which line should I take to get to the city center? Take Line 3.<br/>
 | apartment                   | 公寓                         |
 | own                         | v.拥有;adj.自己的            |
 | owner                       | 拥有者;自己的                |
-| owner of the car            | 车子的主任                   |
+| owner of the car            | 车子的主人                   |
 | rent                        | v.租赁;n.租金                |
 | rent...from...              | 向...租借...                 |
 | pay...to...                 | 付...给某人                  |
@@ -318,15 +318,16 @@ They also save some money every month. They put this money in the bank.<br/>
 | a train station        | 火车站 station : 长途,较大的完善的停靠站            |
 | a taxi stand           | 出租车停靠站                                        |
 | stand                  | stand 可与多种交通工具搭配,表示这些交通工具的停靠点 |
-| get on/off a bus       | 上车/下车                                           |
 | wait for the elevator  | 等电梯                                              |
+| get on/off a bus       | 上车/下车                                           |
 | take off               | 起飞                                                |
 | land                   | n.着陆 v.土地                                       |
 | catch the bus          | 赶车                                                |
 | use / with             | v.用 / prep. 用                                     |
 | below / above          | 在...下方 / 在...上方                               |
 | brain                  | 大脑                                                |
-| pick up                | 举起                                                |
+| pick up                | 举起;拿起                                           |
+| pick sb. up            | 接走某人                                            |
 | look for               | 寻找                                                |
 | favorite               | 最喜欢的                                            |
 | discount / on sale     | 折扣(后接具体金额和比例) / 打折销售的状态           |

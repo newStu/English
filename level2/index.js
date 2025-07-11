@@ -125,6 +125,14 @@ export default [
       {
         "text": "2-30 礼品店以前就在这里",
         "link": "/level2/A_class/2-30.md"
+      },
+      {
+        "text": "2-31 航班将延误一小时",
+        "link": "/level2/A_class/2-31.md"
+      },
+      {
+        "text": "2-32 我很想在外国工作",
+        "link": "/level2/A_class/2-32.md"
       }
     ]
   },

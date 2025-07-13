@@ -133,6 +133,14 @@ export default [
       {
         "text": "2-32 我很想在外国工作",
         "link": "/level2/A_class/2-32.md"
+      },
+      {
+        "text": "2-33 谢谢你今天来面试",
+        "link": "/level2/A_class/2-33.md"
+      },
+      {
+        "text": "2-34 我们需要优秀的作者",
+        "link": "/level2/A_class/2-34.md"
       }
     ]
   },

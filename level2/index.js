@@ -141,6 +141,18 @@ export default [
       {
         "text": "2-34 我们需要优秀的作者",
         "link": "/level2/A_class/2-34.md"
+      },
+      {
+        "text": "2-35 记得回来看你的老朋友",
+        "link": "/level2/A_class/2-35.md"
+      },
+      {
+        "text": "2-36 你的房间在三楼",
+        "link": "/level2/A_class/2-36.md"
+      },
+      {
+        "text": "2-37 月租是多少钱?",
+        "link": "/level2/A_class/2-37.md"
       }
     ]
   },

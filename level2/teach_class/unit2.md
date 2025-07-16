@@ -63,7 +63,8 @@ There are many office workers in an office building. <br/>
 | around                 | 在...附近              |
 | business hours         | 营业时间               |
 | almost                 | 几乎;差不少            |
-| in time                | 及时的                 |
+| in time                | 及时的;不迟于          |
+| on time                | 准时的                 |
 | water cooler           | 办公室饮水机           |
 | water cooler talk/chat | 办公室闲聊(在茶水间聊) |
 | by 9:00                | 不迟于;早于            |

@@ -165,6 +165,14 @@ export default [
       {
         "text": "2-40 周末可以不去海滩吗?",
         "link": "/level2/A_class/2-40.md"
+      },
+      {
+        "text": "2-41 追星生活",
+        "link": "/level2/A_class/2-41.md"
+      },
+      {
+        "text": "2-42 我要预订",
+        "link": "/level2/A_class/2-42.md"
       }
     ]
   },

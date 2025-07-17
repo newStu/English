@@ -153,6 +153,18 @@ export default [
       {
         "text": "2-37 月租是多少钱?",
         "link": "/level2/A_class/2-37.md"
+      },
+      {
+        "text": "2-38 我应该在哪一站下车?",
+        "link": "/level2/A_class/2-38.md"
+      },
+      {
+        "text": "2-39 一切都还顺利吗?",
+        "link": "/level2/A_class/2-39.md"
+      },
+      {
+        "text": "2-40 周末可以不去海滩吗?",
+        "link": "/level2/A_class/2-40.md"
       }
     ]
   },

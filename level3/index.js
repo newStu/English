@@ -21,6 +21,10 @@ export default [
       {
         "text": "3-5 约会经历",
         "link": "/level3/A_class/3-5.md"
+      },
+      {
+        "text": "3-5 未来打算",
+        "link": "/level3/A_class/3-6.md"
       }
     ]
   },

@@ -190,12 +190,12 @@ I'll call you back. (I'll = I will)<br/>
 | change                            | 变化(状态彻底改变)                |
 | passenger                         | 乘客                              |
 | prefer to do sth.                 | 更喜欢做某事                      |
-| traffic                           | 交通; 交通量                      |
 | few people                        | 很少的人 ; few + 可数             |
 | little water                      | 很少的水 ; little + 不可数        |
 | during                            | 在...期间                         |
 | crowded                           | 拥挤                              |
-| heavy traffic                     | 交通拥挤                          |
+| traffic                           | 交通; 交通量                      |
+| heavy traffic / less traffic      | 交通拥堵 / 交通量少               |
 | like to do / like doing           | 喜欢做某事                        |
 | talk with sb.                     | 互相谈论(双方都要谈论)            |
 | talk to sb.                       | 对某人说(单方面)                  |
@@ -204,6 +204,7 @@ I'll call you back. (I'll = I will)<br/>
 | polite                            | 有礼貌的                          |
 | even                              | 即使                              |
 | It's (not) easy to do sth.        | 做某事是(不)容易的                |
+| possible / impossible             | 可能的 / 不可能的                 |
 
 He usually has **basketball practice** after school. = He usually **practices basketball** after school. <br/>
 

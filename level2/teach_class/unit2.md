@@ -154,7 +154,7 @@ We **work on** a project together. <br/>
 | call sb back                     | 回电话给某人                   |
 | hope for the best                | 往好处想                       |
 
-- Why don't ab do sth. 表示建议 , 我们为什么不做... <br/>
+- Why don't to do sth. 表示建议 , 我们为什么不做... <br/>
   Why don't we got to the movie? <br/>
 
 Her smile catches my eye. <br/>
@@ -362,7 +362,7 @@ She **is happy to** work there. / She is happy to help the patients. <br/>
 | figure                         | 图形;身材                         |
 | angel                          | 天使                              |
 | degree                         | **度**(测量单位) : 角度;温度;程度 |
-| right angel = 90 degree        | 直角 = 90 度                      |
+| right angle = 90 degree        | 直角 = 90 度                      |
 | angle / triangle               | 角 / 三角形 (tri- 三的前缀)       |
 | triple / triple kill           | 三倍 / 三杀                       |
 | square                         | 正方形;广场;平方                  |

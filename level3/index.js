@@ -25,6 +25,10 @@ export default [
       {
         "text": "3-5 未来打算",
         "link": "/level3/A_class/3-6.md"
+      },
+      {
+        "text": "3-5 我得带他去看兽医",
+        "link": "/level3/A_class/3-7.md"
       }
     ]
   },

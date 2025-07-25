@@ -423,6 +423,7 @@ When is check-out time? / I'll **be back** at five. <br/>
 | take the subway to + 地点   | 乘坐地铁去...                       |
 | hang out                    | 闲逛; 一起玩                        |
 | hang - hung - hung          | 悬挂                                |
+| bubble                      | 气泡;冒泡                           |
 | bubble tea                  | 珍珠奶茶                            |
 | put away                    | 收拾好;放好                         |
 | the best way to do          | 做某事最好的方式 (good-better-best) |
@@ -438,6 +439,7 @@ When is check-out time? / I'll **be back** at five. <br/>
 | address                     | 地址                                |
 | avenue / street             | 大道;交通主干 / 泛指各种街道        |
 | bite                        | v.咬; n.一口食物                    |
+| have a bite                 | 咬一口                              |
 
 一般过去时 : 表达过去发生的事情. <br/>
 过去的时间点 : yesterday、last Friday、10 minutes age ... <br/>
@@ -454,7 +456,7 @@ I am going to park the car. You can't park here. (be going to 表示将来)<br/>
 When we want to find a new place, we may need to **ask for directions**. <br/>
 
 The address is 755, 3rd Avenue. (地名由小到大,门牌号放在最前面) <br/>
-Can I have a **bite** of your food? / This dog doesn't **bite** people. <br/>
+Can I **have a bite** of your food? / This dog doesn't **bite** people. <br/>
 
 要前往人民公园可以这样问路 ： <br/>
 ① Excuse me, which way is the People's Park? <br/>
@@ -477,12 +479,12 @@ People's Park will **be on your left**. 人民公园就在你的左侧
 | sphere /sfɪr/                     | 球体 ; 球状物                  |
 | rectangle                         | 矩形                           |
 | area                              | 面积                           |
-| times                             | prep.乘法                      |
+| times                             | prep.乘法;n.时间               |
 | volume                            | 体积; 容量                     |
 | liter(l) / milliliter(ml)         | 升 / 毫升                      |
 | finger / toe / leg                | 手指 / 脚趾 / 腿               |
 | at the end of                     | 在...末端                      |
-| carry                             | 拿、搬、扛、                   |
+| carry                             | 拿、搬、扛、携带                   |
 | chew / chew gum                   | 咀嚼 / 口香糖                  |
 | light                             | 光;发光;浅色;轻的              |
 | moonlight                         | 月光                           |

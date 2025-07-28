@@ -7,7 +7,6 @@
 | regular                        | 有规律的                      |
 | a regular schedule             | 固定的时刻表                  |
 | bus No.2                       | 2 路汽车                      |
-| less often / more often        | 班次更多 / 班次更少           |
 | either...or...                 | 要么...要么 ; 或者.. (二选一) |
 | don't either...or...           | 两者都不行                    |
 | rest                           | 剩余部分                      |

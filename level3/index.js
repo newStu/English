@@ -29,6 +29,10 @@ export default [
       {
         "text": "3-7 我得带他去看兽医",
         "link": "/level3/A_class/3-7.md"
+      },
+      {
+        "text": "3-8 成长与成就",
+        "link": "/level3/A_class/3-8.md"
       }
     ]
   },

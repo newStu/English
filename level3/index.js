@@ -3,36 +3,44 @@ export default [
     "text": "懂你 A+",
     "items": [
       {
-        "text": "3-1 我们决定养宠物",
-        "link": "/level3/A_class/3-1.md"
+        "text": "3-01 我们决定养宠物",
+        "link": "/level3/A_class/3-01.md"
       },
       {
-        "text": "3-2 影视明星",
-        "link": "/level3/A_class/3-2.md"
+        "text": "3-02 影视明星",
+        "link": "/level3/A_class/3-02.md"
       },
       {
-        "text": "3-3 我最喜欢那辆寿司餐车",
-        "link": "/level3/A_class/3-3.md"
+        "text": "3-03 我最喜欢那辆寿司餐车",
+        "link": "/level3/A_class/3-03.md"
       },
       {
-        "text": "3-4 假如生活不一样",
-        "link": "/level3/A_class/3-4.md"
+        "text": "3-04 假如生活不一样",
+        "link": "/level3/A_class/3-04.md"
       },
       {
-        "text": "3-5 约会经历",
-        "link": "/level3/A_class/3-5.md"
+        "text": "3-05 约会经历",
+        "link": "/level3/A_class/3-05.md"
       },
       {
-        "text": "3-6 未来打算",
-        "link": "/level3/A_class/3-6.md"
+        "text": "3-06 未来打算",
+        "link": "/level3/A_class/3-06.md"
       },
       {
-        "text": "3-7 我得带他去看兽医",
-        "link": "/level3/A_class/3-7.md"
+        "text": "3-07 我得带他去看兽医",
+        "link": "/level3/A_class/3-07.md"
       },
       {
-        "text": "3-8 成长与成就",
-        "link": "/level3/A_class/3-8.md"
+        "text": "3-08 成长与成就",
+        "link": "/level3/A_class/3-08.md"
+      },
+      {
+        "text": "3-09 厨艺大比拼",
+        "link": "/level3/A_class/3-09.md"
+      },
+      {
+        "text": "3-10 美味关系",
+        "link": "/level3/A_class/3-10.md"
       }
     ]
   },

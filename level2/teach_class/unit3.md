@@ -158,45 +158,45 @@ Dan flies airplanes all over the world. = He flies airplanes to all parts of the
 
 ## 第 24 课
 
-| 单词/词组                   | 汉语               |
-| --------------------------- | ------------------ |
-| travel                      | 行进;旅行          |
-| one of                      | ... 之一           |
-| truck / lorry               | 卡车(美式/英式)    |
-| deliver                     | 运送;投递;交付     |
-| deliveryman                 | 快递员             |
-| passenger                   | 乘客               |
-| transport                   | 运输               |
-| freight                     | 货物               |
-| oil                         | 石油;油            |
-| mobile / automobile         | 课移动的 / 汽车    |
-| cruise /kruːz/              | 航行;乘船游览      |
-| ocean cruise                | 在海上的航行       |
-| accident                    | 意外;事故          |
-| be in an accident           | 出事故             |
-| ambulance                   | 救护车             |
-| injury / injuries / injured | 受伤的             |
-| sick or injured people      | 生病或受伤的人     |
-| sickness                    | 患病的             |
-| bleed                       | 流血               |
-| cough /kɔːf/                | 咳嗽               |
-| have a cold                 | 感冒               |
-| diarrhea /ˌdaɪə'riə/        | 腹泻               |
-| stomach                     | 胃;肚子;腹部       |
-| stomachache / stomach hurt  | 胃痛               |
-| wine / beer                 | 酒/啤酒            |
-| drink - drank - drunk       | 喝;喝醉的          |
-| stop **doing** sth.         | 停止做某事         |
-| face                        | 面对;面向;脸       |
-| leave - left - left         | 离开;遗器 (过去式) |
-| pay back (money)            | 偿还(钱)           |
-| pay rent                    | 付租金             |
-| pay with cash               | 用现金支付         |
-| taste                       | 味道;品尝          |
-| be tired of                 | 对...感到疲倦      |
-| gain                        | 增加;增长          |
-| gain weight                 | 增重               |
-| total cost                  | 总价               |
+| 单词/词组                   | 汉语                      |
+| --------------------------- | ------------------------- |
+| travel                      | 行进;旅行                 |
+| one of                      | ... 之一                  |
+| truck / lorry               | 卡车(美式/英式)           |
+| deliver / delivery          | v.运送;交付 / n.传送;分娩 |
+| deliveryman                 | 快递员                    |
+| passenger                   | 乘客                      |
+| transport                   | 运输                      |
+| freight                     | 货物                      |
+| oil                         | 石油;油                   |
+| mobile / automobile         | 课移动的 / 汽车           |
+| cruise /kruːz/              | 航行;乘船游览             |
+| ocean cruise                | 在海上的航行              |
+| accident                    | 意外;事故                 |
+| be in an accident           | 出事故                    |
+| ambulance                   | 救护车                    |
+| injury / injuries / injured | 受伤的                    |
+| sick or injured people      | 生病或受伤的人            |
+| sickness                    | 患病的                    |
+| bleed                       | 流血                      |
+| cough /kɔːf/                | 咳嗽                      |
+| have a cold                 | 感冒                      |
+| diarrhea /ˌdaɪə'riə/        | 腹泻                      |
+| stomach                     | 胃;肚子;腹部              |
+| stomachache / stomach hurt  | 胃痛                      |
+| wine / beer                 | 酒/啤酒                   |
+| drink - drank - drunk       | 喝;喝醉的                 |
+| stop **doing** sth.         | 停止做某事                |
+| face                        | 面对;面向;脸              |
+| leave - left - left         | 离开;遗器 (过去式)        |
+| pay back (money)            | 偿还(钱)                  |
+| pay rent                    | 付租金                    |
+| pay with cash               | 用现金支付                |
+| taste                       | 味道;品尝                 |
+| be tired of                 | 对...感到疲倦             |
+| gain                        | 增加;增长                 |
+| gain weight                 | 增重                      |
+| total cost                  | 总价                      |
 
 Airplanes are the fastest way to travel a long distance.<br/>
 Airplane travel is **one of the safest ways** to travel. 最安全的方式之一<br/>

@@ -116,7 +116,7 @@ function setMdFile(realPath) {
   // });
   const fileInfo = transformInfoToResult(filePaths, realPath, baseDir);
   fileText = `export default ${JSON.stringify(fileInfo, null, 2)}`;
-  createFiles(fileText, `${baseDir}\\index.js`);
+  createFiles(fileText, path.join(baseDir, 'index.js'));
 }
 
 [

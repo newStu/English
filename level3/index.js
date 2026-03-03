@@ -49,6 +49,10 @@ export default [
       {
         "text": "3-12 梦想照进现实",
         "link": "/level3/A_class/3-12.md"
+      },
+      {
+        "text": "3-13 人生导师",
+        "link": "/level3/A_class/3-13.md"
       }
     ]
   },

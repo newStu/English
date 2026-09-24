@@ -51,12 +51,16 @@ export default [
         link: "/grammar/zb_class/听说.md",
       },
       {
-        text: "小词大用",
-        link: "/grammar/zb_class/小词大用.md",
+        text: "词汇&场景",
+        link: "/grammar/zb_class/词汇&场景.md",
       },
       {
-        text: "其他",
-        link: "/grammar/zb_class/其他.md",
+        text: "写作",
+        link: "/grammar/zb_class/写作.md",
+      },
+      {
+        text: "小词大用",
+        link: "/grammar/zb_class/小词大用.md",
       },
     ],
   },
